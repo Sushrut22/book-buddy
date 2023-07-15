@@ -4,18 +4,18 @@ BookBuddy is a web application designed to enhance your reading experience by pr
 
 ## Features
 
-- 🎯 *Collaborative Filtering:* BookBuddy utilizes a collaborative filtering model to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers.
+- 🎯 **Collaborative Filtering:** BookBuddy utilizes a [collaborative filtering model](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb) to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers. 
 
-- 📖 *Content-Based Recommendations:* BookBuddy also offers content-based recommendations. Simply mention a book you enjoyed, and our chatbot will provide you with similar book suggestions. Additionally, you can provide your preferred genre, and the chatbot will offer tailored recommendations.
+- 📖 **Content-Based Recommendations:** BookBuddy also offers [content based recommendations](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb). Simply mention a book you enjoyed, and our chatbot will provide you with similar book suggestions. Additionally, you can provide your preferred genre, and the chatbot will offer tailored recommendations. 
 
-- 🌟 *Popularity-Based Approach:* When you're just starting out or haven't rated any books yet, BookBuddy employs a popularity-based approach inspired by IMDb's top-rated movie formula. This default ordering of books ensures you have a starting point for exploration.
 
-- 📚 *Read List:* Keep track of the books you plan to read using the Read List feature. Add books to your list, view them at any time, and mark them as read once you've completed them.
+- 🌟 **Popularity-Based Approach:** When you're just starting out or haven't rated any books yet, BookBuddy employs a popularity-based approach inspired by IMDb's top-rated movie formula. This default ordering of books ensures you have a starting point for exploration.
 
-- ⭐ *Rated Books List:* Rate the books you've read and keep a record of your ratings. The Rated Books List allows you to view and manage your rated books, helping you remember and recommend your favorite reads.
+- 📚 **Read List:** Keep track of the books you plan to read using the Read List feature. Add books to your list, view them at any time, and mark them as read once you've completed them.
 
-- 🌈 *User-Friendly Interface:* BookBuddy features a user-friendly interface with intuitive navigation and visually appealing design elements. Enjoy a smooth and engaging experience as you explore books and manage your reading journey.
+- ⭐ **Rated Books List:** Rate the books you've read and keep a record of your ratings. The Rated Books List allows you to view and manage your rated books, helping you remember and recommend your favorite reads.
 
+- 🌈 **User-Friendly Interface:** BookBuddy features a user-friendly interface with intuitive navigation and visually appealing design elements. Enjoy a smooth and engaging experience as you explore books and manage your reading journey.
 ## Technologies Used
 
 - 🚀 Backend: Flask (Python)
