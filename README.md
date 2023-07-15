@@ -32,8 +32,8 @@ To run BookBuddy locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Sushrut22/book-buddy.git`
 
-2. You need to Install the ML Model for this project here: link\
-   When you install these 2 files, put them in `/src/api/api/` directory.
+2. You need to Install the `genre_matrix.pkl` file for this project here: [link](https://www.mediafire.com/file/6dmz4lb6denms1s/genre_matrix.pkl/file)\
+   After installation, put this file in `/src/api/api/` directory.
 
 3. Install the required dependencies for the backend:
 
