@@ -220,14 +220,14 @@ def index():
     # # depends on intent everything now
     if intent == "Recommend-book-name":
         bookname = data['queryResult']['parameters']['book-name']
-        return jsonify(similar_recommendations(bookname))
+        return jsonify(book_based(bookname))
     elif intent == "Recommend-Genre":
         genre = data['queryResult']['parameters']['genre']
-        res = get_recommendations(genre)
+        res = genre_based(genre)
         return jsonify(res)
 
 
-def get_recommendations(s):
+def genre_based(s):
     like = np.zeros((982,))
     for i in s:
         like[genre_to_order[i]] = 1
@@ -251,7 +251,7 @@ def get_recommendations(s):
     }
 
 
-def similar_recommendations(name):
+def book_based(name):
     global books_600_data
     try:
         user_ratings = np.zeros((600,))
