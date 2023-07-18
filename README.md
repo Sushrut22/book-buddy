@@ -4,10 +4,9 @@ BookBuddy is a web application designed to enhance your reading experience by pr
 
 ## Features
 
-- 🎯 **Collaborative Filtering:** BookBuddy utilizes a [collaborative filtering model](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb) to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers. 
+- 🎯 **Collaborative Filtering:** BookBuddy utilizes a [collaborative filtering model](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb) to recommend books based on user preferences and interactions. Discover new titles based on the collective wisdom of fellow readers.
 
-- 📖 **Content-Based Recommendations:** BookBuddy also offers [content based recommendations](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb). Simply mention a book you enjoyed, and our chatbot will provide you with similar book suggestions. Additionally, you can provide your preferred genre, and the chatbot will offer tailored recommendations. 
-
+- 📖 **Content-Based Recommendations:** BookBuddy also offers [content based recommendations](https://github.com/atharv-patil/book-buddy/blob/main/models.ipynb). Simply mention a book you enjoyed, and our chatbot will provide you with similar book suggestions. Additionally, you can provide your preferred genre, and the chatbot will offer tailored recommendations.
 
 - 🌟 **Popularity-Based Approach:** When you're just starting out or haven't rated any books yet, BookBuddy employs a popularity-based approach inspired by IMDb's top-rated movie formula. This default ordering of books ensures you have a starting point for exploration.
 
@@ -16,6 +15,7 @@ BookBuddy is a web application designed to enhance your reading experience by pr
 - ⭐ **Rated Books List:** Rate the books you've read and keep a record of your ratings. The Rated Books List allows you to view and manage your rated books, helping you remember and recommend your favorite reads.
 
 - 🌈 **User-Friendly Interface:** BookBuddy features a user-friendly interface with intuitive navigation and visually appealing design elements. Enjoy a smooth and engaging experience as you explore books and manage your reading journey.
+
 ## Technologies Used
 
 - 🚀 Backend: Flask (Python)
@@ -62,6 +62,11 @@ To run BookBuddy locally, follow these steps:
 3. Rate books you've read and manage your rated books in the Rated Books Section.
 4. Use the chatbot to get recommendations based on books you mention or your preferred genres.
 5. Discover personalized recommendations in the Recommended List based on collaborative filtering, content-based approaches, and the popularity-based approach.
+
+## Video Demonstration
+
+Watch the BookBuddy in action in our video demonstration: [BookBuddy Demo](https://www.youtube.com/watch?v=pdeWZkCaQUQ)
+
 
 ## Contributing
 
