@@ -63,9 +63,15 @@ To run BookBuddy locally, follow these steps:
 4. Use the chatbot to get recommendations based on books you mention or your preferred genres.
 5. Discover personalized recommendations in the Recommended List based on collaborative filtering, content-based approaches, and the popularity-based approach.
 
-## Video Demonstration
+## Video Demonstration and screenshots
 
 Watch the BookBuddy in action in our video demonstration: [BookBuddy Demo](https://www.youtube.com/watch?v=pdeWZkCaQUQ)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/d57ff3c4-255d-4e25-8c61-9d4ee0167f8b)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/ba8914c9-9629-429e-a523-61f75c802dd9)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/5e882920-dc9d-4e00-96f8-e518738a95c7)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/2092f550-1c24-4818-93c3-711fdf3a94f6)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/d0f17e1d-4625-44c0-9cd8-f8e1345648ff)
+![image](https://github.com/atharv-patil/book-buddy/assets/83455141/e568dcf0-0744-471e-8898-5d91877fa138)
 
 
 ## Contributing
