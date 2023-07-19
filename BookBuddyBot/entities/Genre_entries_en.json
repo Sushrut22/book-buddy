@@ -1,0 +1,6060 @@
+[
+  {
+    "value": "Fantasy",
+    "synonyms": [
+      "Fantasy",
+      "Imagination",
+      "Speculative fiction"
+    ]
+  },
+  {
+    "value": "Mystery",
+    "synonyms": [
+      "Mystery",
+      "Detective",
+      "Crime fiction"
+    ]
+  },
+  {
+    "value": "Romance",
+    "synonyms": [
+      "Romance",
+      "Love story",
+      "Romantic fiction",
+      "Love"
+    ]
+  },
+  {
+    "value": "Science Fiction",
+    "synonyms": [
+      "Science Fiction",
+      "Sci-Fi",
+      "Speculative fiction"
+    ]
+  },
+  {
+    "value": "Thriller",
+    "synonyms": [
+      "Thriller",
+      "Suspense",
+      "Action-packed"
+    ]
+  },
+  {
+    "value": "Horror",
+    "synonyms": [
+      "Horror",
+      "Dark fiction",
+      "Macabre"
+    ]
+  },
+  {
+    "value": "Historical Fiction",
+    "synonyms": [
+      "Historical Fiction",
+      "Period drama",
+      "Historical novel"
+    ]
+  },
+  {
+    "value": "Adventure",
+    "synonyms": [
+      "Adventure",
+      "Quest",
+      "Exploration",
+      "Travel"
+    ]
+  },
+  {
+    "value": "Young Adult",
+    "synonyms": [
+      "Young Adult",
+      "YA",
+      "Teen fiction",
+      "Teen",
+      "adulthood",
+      "Adolescence"
+    ]
+  },
+  {
+    "value": "Contemporary",
+    "synonyms": [
+      "Contemporary",
+      "Modern fiction",
+      "Realistic fiction"
+    ]
+  },
+  {
+    "value": "Dystopian",
+    "synonyms": [
+      "Dystopian",
+      "Post-apocalyptic",
+      "Futuristic"
+    ]
+  },
+  {
+    "value": "Crime",
+    "synonyms": [
+      "Crime",
+      "Detective story",
+      "Whodunit",
+      "Murder"
+    ]
+  },
+  {
+    "value": "Biography",
+    "synonyms": [
+      "Biography",
+      "Memoir",
+      "Autobiography"
+    ]
+  },
+  {
+    "value": "Non-fiction",
+    "synonyms": [
+      "Non-fiction",
+      "Factual",
+      "Informational"
+    ]
+  },
+  {
+    "value": "Comedy",
+    "synonyms": [
+      "Comedy",
+      "Humorous",
+      "Funny"
+    ]
+  },
+  {
+    "value": "Drama",
+    "synonyms": [
+      "Drama",
+      "Tragedy",
+      "Theatrical"
+    ]
+  },
+  {
+    "value": "Historical Non-fiction",
+    "synonyms": [
+      "Historical Non-fiction",
+      "History",
+      "Historical account"
+    ]
+  },
+  {
+    "value": "Poetry",
+    "synonyms": [
+      "Poetry",
+      "Verse",
+      "Rhyme"
+    ]
+  },
+  {
+    "value": "Self-help",
+    "synonyms": [
+      "Self-help",
+      "Personal development",
+      "Motivational"
+    ]
+  },
+  {
+    "value": "Satire",
+    "synonyms": [
+      "Satire",
+      "Irony",
+      "Parody"
+    ]
+  },
+  {
+    "value": "Fiction",
+    "synonyms": [
+      "Fiction"
+    ]
+  },
+  {
+    "value": "Romance",
+    "synonyms": [
+      "Romance"
+    ]
+  },
+  {
+    "value": "Fantasy",
+    "synonyms": [
+      "Fantasy"
+    ]
+  },
+  {
+    "value": "Young Adult",
+    "synonyms": [
+      "Young Adult"
+    ]
+  },
+  {
+    "value": "Contemporary",
+    "synonyms": [
+      "Contemporary"
+    ]
+  },
+  {
+    "value": "Nonfiction",
+    "synonyms": [
+      "Nonfiction"
+    ]
+  },
+  {
+    "value": "Adult",
+    "synonyms": [
+      "Adult"
+    ]
+  },
+  {
+    "value": "Novels",
+    "synonyms": [
+      "Novels"
+    ]
+  },
+  {
+    "value": "Mystery",
+    "synonyms": [
+      "Mystery"
+    ]
+  },
+  {
+    "value": "Historical Fiction",
+    "synonyms": [
+      "Historical Fiction"
+    ]
+  },
+  {
+    "value": "Audiobook",
+    "synonyms": [
+      "Audiobook"
+    ]
+  },
+  {
+    "value": "Classics",
+    "synonyms": [
+      "Classics"
+    ]
+  },
+  {
+    "value": "Adventure",
+    "synonyms": [
+      "Adventure"
+    ]
+  },
+  {
+    "value": "Historical",
+    "synonyms": [
+      "Historical"
+    ]
+  },
+  {
+    "value": "Paranormal",
+    "synonyms": [
+      "Paranormal"
+    ]
+  },
+  {
+    "value": "Literature",
+    "synonyms": [
+      "Literature"
+    ]
+  },
+  {
+    "value": "Science Fiction",
+    "synonyms": [
+      "Science Fiction"
+    ]
+  },
+  {
+    "value": "Childrens",
+    "synonyms": [
+      "Childrens"
+    ]
+  },
+  {
+    "value": "Thriller",
+    "synonyms": [
+      "Thriller"
+    ]
+  },
+  {
+    "value": "Magic",
+    "synonyms": [
+      "Magic"
+    ]
+  },
+  {
+    "value": "Humor",
+    "synonyms": [
+      "Humor"
+    ]
+  },
+  {
+    "value": "History",
+    "synonyms": [
+      "History"
+    ]
+  },
+  {
+    "value": "Crime",
+    "synonyms": [
+      "Crime"
+    ]
+  },
+  {
+    "value": "Contemporary Romance",
+    "synonyms": [
+      "Contemporary Romance"
+    ]
+  },
+  {
+    "value": "Suspense",
+    "synonyms": [
+      "Suspense"
+    ]
+  },
+  {
+    "value": "Urban Fantasy",
+    "synonyms": [
+      "Urban Fantasy"
+    ]
+  },
+  {
+    "value": "Middle Grade",
+    "synonyms": [
+      "Middle Grade"
+    ]
+  },
+  {
+    "value": "Chick Lit",
+    "synonyms": [
+      "Chick Lit"
+    ]
+  },
+  {
+    "value": "Science Fiction Fantasy",
+    "synonyms": [
+      "Science Fiction Fantasy"
+    ]
+  },
+  {
+    "value": "Supernatural",
+    "synonyms": [
+      "Supernatural"
+    ]
+  },
+  {
+    "value": "Biography",
+    "synonyms": [
+      "Biography"
+    ]
+  },
+  {
+    "value": "Mystery Thriller",
+    "synonyms": [
+      "Mystery Thriller"
+    ]
+  },
+  {
+    "value": "Paranormal Romance",
+    "synonyms": [
+      "Paranormal Romance"
+    ]
+  },
+  {
+    "value": "Horror",
+    "synonyms": [
+      "Horror"
+    ]
+  },
+  {
+    "value": "Teen",
+    "synonyms": [
+      "Teen"
+    ]
+  },
+  {
+    "value": "Philosophy",
+    "synonyms": [
+      "Philosophy"
+    ]
+  },
+  {
+    "value": "Adult Fiction",
+    "synonyms": [
+      "Adult Fiction"
+    ]
+  },
+  {
+    "value": "Short Stories",
+    "synonyms": [
+      "Short Stories"
+    ]
+  },
+  {
+    "value": "Literary Fiction",
+    "synonyms": [
+      "Literary Fiction"
+    ]
+  },
+  {
+    "value": "British Literature",
+    "synonyms": [
+      "British Literature"
+    ]
+  },
+  {
+    "value": "Realistic Fiction",
+    "synonyms": [
+      "Realistic Fiction"
+    ]
+  },
+  {
+    "value": "Drama",
+    "synonyms": [
+      "Drama"
+    ]
+  },
+  {
+    "value": "Religion",
+    "synonyms": [
+      "Religion"
+    ]
+  },
+  {
+    "value": "New Adult",
+    "synonyms": [
+      "New Adult"
+    ]
+  },
+  {
+    "value": "Memoir",
+    "synonyms": [
+      "Memoir"
+    ]
+  },
+  {
+    "value": "Erotica",
+    "synonyms": [
+      "Erotica"
+    ]
+  },
+  {
+    "value": "War",
+    "synonyms": [
+      "War"
+    ]
+  },
+  {
+    "value": "20th Century",
+    "synonyms": [
+      "20th Century"
+    ]
+  },
+  {
+    "value": "Vampires",
+    "synonyms": [
+      "Vampires"
+    ]
+  },
+  {
+    "value": "Christian",
+    "synonyms": [
+      "Christian"
+    ]
+  },
+  {
+    "value": "Graphic Novels",
+    "synonyms": [
+      "Graphic Novels"
+    ]
+  },
+  {
+    "value": "American",
+    "synonyms": [
+      "American"
+    ]
+  },
+  {
+    "value": "Politics",
+    "synonyms": [
+      "Politics"
+    ]
+  },
+  {
+    "value": "Comics",
+    "synonyms": [
+      "Comics"
+    ]
+  },
+  {
+    "value": "Family",
+    "synonyms": [
+      "Family"
+    ]
+  },
+  {
+    "value": "Juvenile",
+    "synonyms": [
+      "Juvenile"
+    ]
+  },
+  {
+    "value": "Dystopia",
+    "synonyms": [
+      "Dystopia"
+    ]
+  },
+  {
+    "value": "School",
+    "synonyms": [
+      "School"
+    ]
+  },
+  {
+    "value": "Psychology",
+    "synonyms": [
+      "Psychology"
+    ]
+  },
+  {
+    "value": "Poetry",
+    "synonyms": [
+      "Poetry"
+    ]
+  },
+  {
+    "value": "Biography Memoir",
+    "synonyms": [
+      "Biography Memoir"
+    ]
+  },
+  {
+    "value": "Spirituality",
+    "synonyms": [
+      "Spirituality"
+    ]
+  },
+  {
+    "value": "High Fantasy",
+    "synonyms": [
+      "High Fantasy"
+    ]
+  },
+  {
+    "value": "LGBT",
+    "synonyms": [
+      "LGBT"
+    ]
+  },
+  {
+    "value": "Historical Romance",
+    "synonyms": [
+      "Historical Romance"
+    ]
+  },
+  {
+    "value": "Action",
+    "synonyms": [
+      "Action"
+    ]
+  },
+  {
+    "value": "Self Help",
+    "synonyms": [
+      "Self Help"
+    ]
+  },
+  {
+    "value": "Science",
+    "synonyms": [
+      "Science"
+    ]
+  },
+  {
+    "value": "Autobiography",
+    "synonyms": [
+      "Autobiography"
+    ]
+  },
+  {
+    "value": "Animals",
+    "synonyms": [
+      "Animals"
+    ]
+  },
+  {
+    "value": "France",
+    "synonyms": [
+      "France"
+    ]
+  },
+  {
+    "value": "Comedy",
+    "synonyms": [
+      "Comedy"
+    ]
+  },
+  {
+    "value": "Christian Fiction",
+    "synonyms": [
+      "Christian Fiction"
+    ]
+  },
+  {
+    "value": "Young Adult Fantasy",
+    "synonyms": [
+      "Young Adult Fantasy"
+    ]
+  },
+  {
+    "value": "Mythology",
+    "synonyms": [
+      "Mythology"
+    ]
+  },
+  {
+    "value": "Military Fiction",
+    "synonyms": [
+      "Military Fiction"
+    ]
+  },
+  {
+    "value": "Detective",
+    "synonyms": [
+      "Detective"
+    ]
+  },
+  {
+    "value": "Coming Of Age",
+    "synonyms": [
+      "Coming Of Age"
+    ]
+  },
+  {
+    "value": "Erotic Romance",
+    "synonyms": [
+      "Erotic Romance"
+    ]
+  },
+  {
+    "value": "Graphic Novels Comics",
+    "synonyms": [
+      "Graphic Novels Comics"
+    ]
+  },
+  {
+    "value": "Epic Fantasy",
+    "synonyms": [
+      "Epic Fantasy"
+    ]
+  },
+  {
+    "value": "Inspirational",
+    "synonyms": [
+      "Inspirational"
+    ]
+  },
+  {
+    "value": "Reference",
+    "synonyms": [
+      "Reference"
+    ]
+  },
+  {
+    "value": "Speculative Fiction",
+    "synonyms": [
+      "Speculative Fiction"
+    ]
+  },
+  {
+    "value": "Abuse",
+    "synonyms": [
+      "Abuse"
+    ]
+  },
+  {
+    "value": "Roman",
+    "synonyms": [
+      "Roman"
+    ]
+  },
+  {
+    "value": "High School",
+    "synonyms": [
+      "High School"
+    ]
+  },
+  {
+    "value": "19th Century",
+    "synonyms": [
+      "19th Century"
+    ]
+  },
+  {
+    "value": "Romantic Suspense",
+    "synonyms": [
+      "Romantic Suspense"
+    ]
+  },
+  {
+    "value": "Dark",
+    "synonyms": [
+      "Dark"
+    ]
+  },
+  {
+    "value": "Essays",
+    "synonyms": [
+      "Essays"
+    ]
+  },
+  {
+    "value": "Manga",
+    "synonyms": [
+      "Manga"
+    ]
+  },
+  {
+    "value": "Art",
+    "synonyms": [
+      "Art"
+    ]
+  },
+  {
+    "value": "Travel",
+    "synonyms": [
+      "Travel"
+    ]
+  },
+  {
+    "value": "Book Club",
+    "synonyms": [
+      "Book Club"
+    ]
+  },
+  {
+    "value": "World War II",
+    "synonyms": [
+      "World War II"
+    ]
+  },
+  {
+    "value": "Shapeshifters",
+    "synonyms": [
+      "Shapeshifters"
+    ]
+  },
+  {
+    "value": "Christianity",
+    "synonyms": [
+      "Christianity"
+    ]
+  },
+  {
+    "value": "Novella",
+    "synonyms": [
+      "Novella"
+    ]
+  },
+  {
+    "value": "Amazon",
+    "synonyms": [
+      "Amazon"
+    ]
+  },
+  {
+    "value": "Queer",
+    "synonyms": [
+      "Queer"
+    ]
+  },
+  {
+    "value": "Fairy Tales",
+    "synonyms": [
+      "Fairy Tales"
+    ]
+  },
+  {
+    "value": "Business",
+    "synonyms": [
+      "Business"
+    ]
+  },
+  {
+    "value": "Love",
+    "synonyms": [
+      "Love"
+    ]
+  },
+  {
+    "value": "Unfinished",
+    "synonyms": [
+      "Unfinished"
+    ]
+  },
+  {
+    "value": "Time Travel",
+    "synonyms": [
+      "Time Travel"
+    ]
+  },
+  {
+    "value": "Music",
+    "synonyms": [
+      "Music"
+    ]
+  },
+  {
+    "value": "Witches",
+    "synonyms": [
+      "Witches"
+    ]
+  },
+  {
+    "value": "Picture Books",
+    "synonyms": [
+      "Picture Books"
+    ]
+  },
+  {
+    "value": "Post Apocalyptic",
+    "synonyms": [
+      "Post Apocalyptic"
+    ]
+  },
+  {
+    "value": "Young Adult Contemporary",
+    "synonyms": [
+      "Young Adult Contemporary"
+    ]
+  },
+  {
+    "value": "Womens",
+    "synonyms": [
+      "Womens"
+    ]
+  },
+  {
+    "value": "Sports",
+    "synonyms": [
+      "Sports"
+    ]
+  },
+  {
+    "value": "Comic Book",
+    "synonyms": [
+      "Comic Book"
+    ]
+  },
+  {
+    "value": "German Literature",
+    "synonyms": [
+      "German Literature"
+    ]
+  },
+  {
+    "value": "Demons",
+    "synonyms": [
+      "Demons"
+    ]
+  },
+  {
+    "value": "Asia",
+    "synonyms": [
+      "Asia"
+    ]
+  },
+  {
+    "value": "Feminism",
+    "synonyms": [
+      "Feminism"
+    ]
+  },
+  {
+    "value": "Werewolves",
+    "synonyms": [
+      "Werewolves"
+    ]
+  },
+  {
+    "value": "Magical Realism",
+    "synonyms": [
+      "Magical Realism"
+    ]
+  },
+  {
+    "value": "Dragons",
+    "synonyms": [
+      "Dragons"
+    ]
+  },
+  {
+    "value": "Sociology",
+    "synonyms": [
+      "Sociology"
+    ]
+  },
+  {
+    "value": "American History",
+    "synonyms": [
+      "American History"
+    ]
+  },
+  {
+    "value": "Theology",
+    "synonyms": [
+      "Theology"
+    ]
+  },
+  {
+    "value": "French Literature",
+    "synonyms": [
+      "French Literature"
+    ]
+  },
+  {
+    "value": "Personal Development",
+    "synonyms": [
+      "Personal Development"
+    ]
+  },
+  {
+    "value": "Space",
+    "synonyms": [
+      "Space"
+    ]
+  },
+  {
+    "value": "Anthologies",
+    "synonyms": [
+      "Anthologies"
+    ]
+  },
+  {
+    "value": "Faith",
+    "synonyms": [
+      "Faith"
+    ]
+  },
+  {
+    "value": "Epic",
+    "synonyms": [
+      "Epic"
+    ]
+  },
+  {
+    "value": "College",
+    "synonyms": [
+      "College"
+    ]
+  },
+  {
+    "value": "Westerns",
+    "synonyms": [
+      "Westerns"
+    ]
+  },
+  {
+    "value": "Cultural",
+    "synonyms": [
+      "Cultural"
+    ]
+  },
+  {
+    "value": "Ghosts",
+    "synonyms": [
+      "Ghosts"
+    ]
+  },
+  {
+    "value": "M M Romance",
+    "synonyms": [
+      "M M Romance"
+    ]
+  },
+  {
+    "value": "Space Opera",
+    "synonyms": [
+      "Space Opera"
+    ]
+  },
+  {
+    "value": "BDSM",
+    "synonyms": [
+      "BDSM"
+    ]
+  },
+  {
+    "value": "Mental Health",
+    "synonyms": [
+      "Mental Health"
+    ]
+  },
+  {
+    "value": "The United States Of America",
+    "synonyms": [
+      "The United States Of America"
+    ]
+  },
+  {
+    "value": "Retellings",
+    "synonyms": [
+      "Retellings"
+    ]
+  },
+  {
+    "value": "Canada",
+    "synonyms": [
+      "Canada"
+    ]
+  },
+  {
+    "value": "Russia",
+    "synonyms": [
+      "Russia"
+    ]
+  },
+  {
+    "value": "Medieval",
+    "synonyms": [
+      "Medieval"
+    ]
+  },
+  {
+    "value": "Angels",
+    "synonyms": [
+      "Angels"
+    ]
+  },
+  {
+    "value": "Read For School",
+    "synonyms": [
+      "Read For School"
+    ]
+  },
+  {
+    "value": "Spanish Literature",
+    "synonyms": [
+      "Spanish Literature"
+    ]
+  },
+  {
+    "value": "Africa",
+    "synonyms": [
+      "Africa"
+    ]
+  },
+  {
+    "value": "Aliens",
+    "synonyms": [
+      "Aliens"
+    ]
+  },
+  {
+    "value": "Nature",
+    "synonyms": [
+      "Nature"
+    ]
+  },
+  {
+    "value": "Gay",
+    "synonyms": [
+      "Gay"
+    ]
+  },
+  {
+    "value": "Espionage",
+    "synonyms": [
+      "Espionage"
+    ]
+  },
+  {
+    "value": "Plays",
+    "synonyms": [
+      "Plays"
+    ]
+  },
+  {
+    "value": "Japan",
+    "synonyms": [
+      "Japan"
+    ]
+  },
+  {
+    "value": "India",
+    "synonyms": [
+      "India"
+    ]
+  },
+  {
+    "value": "Gothic",
+    "synonyms": [
+      "Gothic"
+    ]
+  },
+  {
+    "value": "Chapter Books",
+    "synonyms": [
+      "Chapter Books"
+    ]
+  },
+  {
+    "value": "Islam",
+    "synonyms": [
+      "Islam"
+    ]
+  },
+  {
+    "value": "African American",
+    "synonyms": [
+      "African American"
+    ]
+  },
+  {
+    "value": "Regency",
+    "synonyms": [
+      "Regency"
+    ]
+  },
+  {
+    "value": "Economics",
+    "synonyms": [
+      "Economics"
+    ]
+  },
+  {
+    "value": "Italy",
+    "synonyms": [
+      "Italy"
+    ]
+  },
+  {
+    "value": "Collections",
+    "synonyms": [
+      "Collections"
+    ]
+  },
+  {
+    "value": "Media Tie In",
+    "synonyms": [
+      "Media Tie In"
+    ]
+  },
+  {
+    "value": "Health",
+    "synonyms": [
+      "Health"
+    ]
+  },
+  {
+    "value": "Womens Fiction",
+    "synonyms": [
+      "Womens Fiction"
+    ]
+  },
+  {
+    "value": "Christian Romance",
+    "synonyms": [
+      "Christian Romance"
+    ]
+  },
+  {
+    "value": "Death",
+    "synonyms": [
+      "Death"
+    ]
+  },
+  {
+    "value": "Fae",
+    "synonyms": [
+      "Fae"
+    ]
+  },
+  {
+    "value": "Germany",
+    "synonyms": [
+      "Germany"
+    ]
+  },
+  {
+    "value": "Education",
+    "synonyms": [
+      "Education"
+    ]
+  },
+  {
+    "value": "Mental Illness",
+    "synonyms": [
+      "Mental Illness"
+    ]
+  },
+  {
+    "value": "Murder Mystery",
+    "synonyms": [
+      "Murder Mystery"
+    ]
+  },
+  {
+    "value": "Theatre",
+    "synonyms": [
+      "Theatre"
+    ]
+  },
+  {
+    "value": "Comics Manga",
+    "synonyms": [
+      "Comics Manga"
+    ]
+  },
+  {
+    "value": "Superheroes",
+    "synonyms": [
+      "Superheroes"
+    ]
+  },
+  {
+    "value": "Leadership",
+    "synonyms": [
+      "Leadership"
+    ]
+  },
+  {
+    "value": "Survival",
+    "synonyms": [
+      "Survival"
+    ]
+  },
+  {
+    "value": "True Crime",
+    "synonyms": [
+      "True Crime"
+    ]
+  },
+  {
+    "value": "Steampunk",
+    "synonyms": [
+      "Steampunk"
+    ]
+  },
+  {
+    "value": "Classic Literature",
+    "synonyms": [
+      "Classic Literature"
+    ]
+  },
+  {
+    "value": "Christian Living",
+    "synonyms": [
+      "Christian Living"
+    ]
+  },
+  {
+    "value": "Young Adult Romance",
+    "synonyms": [
+      "Young Adult Romance"
+    ]
+  },
+  {
+    "value": "Southern",
+    "synonyms": [
+      "Southern"
+    ]
+  },
+  {
+    "value": "Japanese Literature",
+    "synonyms": [
+      "Japanese Literature"
+    ]
+  },
+  {
+    "value": "Kids",
+    "synonyms": [
+      "Kids"
+    ]
+  },
+  {
+    "value": "Relationships",
+    "synonyms": [
+      "Relationships"
+    ]
+  },
+  {
+    "value": "Apocalyptic",
+    "synonyms": [
+      "Apocalyptic"
+    ]
+  },
+  {
+    "value": "Scotland",
+    "synonyms": [
+      "Scotland"
+    ]
+  },
+  {
+    "value": "M F Romance",
+    "synonyms": [
+      "M F Romance"
+    ]
+  },
+  {
+    "value": "Nobel Prize",
+    "synonyms": [
+      "Nobel Prize"
+    ]
+  },
+  {
+    "value": "Zombies",
+    "synonyms": [
+      "Zombies"
+    ]
+  },
+  {
+    "value": "Indonesian Literature",
+    "synonyms": [
+      "Indonesian Literature"
+    ]
+  },
+  {
+    "value": "Australia",
+    "synonyms": [
+      "Australia"
+    ]
+  },
+  {
+    "value": "Race",
+    "synonyms": [
+      "Race"
+    ]
+  },
+  {
+    "value": "Holocaust",
+    "synonyms": [
+      "Holocaust"
+    ]
+  },
+  {
+    "value": "Asian Literature",
+    "synonyms": [
+      "Asian Literature"
+    ]
+  },
+  {
+    "value": "New York",
+    "synonyms": [
+      "New York"
+    ]
+  },
+  {
+    "value": "Russian Literature",
+    "synonyms": [
+      "Russian Literature"
+    ]
+  },
+  {
+    "value": "Indian Literature",
+    "synonyms": [
+      "Indian Literature"
+    ]
+  },
+  {
+    "value": "Ireland",
+    "synonyms": [
+      "Ireland"
+    ]
+  },
+  {
+    "value": "Regency Romance",
+    "synonyms": [
+      "Regency Romance"
+    ]
+  },
+  {
+    "value": "Food",
+    "synonyms": [
+      "Food"
+    ]
+  },
+  {
+    "value": "Writing",
+    "synonyms": [
+      "Writing"
+    ]
+  },
+  {
+    "value": "Military History",
+    "synonyms": [
+      "Military History"
+    ]
+  },
+  {
+    "value": "Scandinavian Literature",
+    "synonyms": [
+      "Scandinavian Literature"
+    ]
+  },
+  {
+    "value": "Christmas",
+    "synonyms": [
+      "Christmas"
+    ]
+  },
+  {
+    "value": "Italian Literature",
+    "synonyms": [
+      "Italian Literature"
+    ]
+  },
+  {
+    "value": "Victorian",
+    "synonyms": [
+      "Victorian"
+    ]
+  },
+  {
+    "value": "Medical",
+    "synonyms": [
+      "Medical"
+    ]
+  },
+  {
+    "value": "Books About Books",
+    "synonyms": [
+      "Books About Books"
+    ]
+  },
+  {
+    "value": "Cozy Mystery",
+    "synonyms": [
+      "Cozy Mystery"
+    ]
+  },
+  {
+    "value": "Anthropology",
+    "synonyms": [
+      "Anthropology"
+    ]
+  },
+  {
+    "value": "Jewish",
+    "synonyms": [
+      "Jewish"
+    ]
+  },
+  {
+    "value": "Theory",
+    "synonyms": [
+      "Theory"
+    ]
+  },
+  {
+    "value": "Christian Non Fiction",
+    "synonyms": [
+      "Christian Non Fiction"
+    ]
+  },
+  {
+    "value": "China",
+    "synonyms": [
+      "China"
+    ]
+  },
+  {
+    "value": "Egypt",
+    "synonyms": [
+      "Egypt"
+    ]
+  },
+  {
+    "value": "Noir",
+    "synonyms": [
+      "Noir"
+    ]
+  },
+  {
+    "value": "Irish Literature",
+    "synonyms": [
+      "Irish Literature"
+    ]
+  },
+  {
+    "value": "Fairies",
+    "synonyms": [
+      "Fairies"
+    ]
+  },
+  {
+    "value": "Dark Fantasy",
+    "synonyms": [
+      "Dark Fantasy"
+    ]
+  },
+  {
+    "value": "21st Century",
+    "synonyms": [
+      "21st Century"
+    ]
+  },
+  {
+    "value": "Cats",
+    "synonyms": [
+      "Cats"
+    ]
+  },
+  {
+    "value": "Modern",
+    "synonyms": [
+      "Modern"
+    ]
+  },
+  {
+    "value": "Latin American",
+    "synonyms": [
+      "Latin American"
+    ]
+  },
+  {
+    "value": "Environment",
+    "synonyms": [
+      "Environment"
+    ]
+  },
+  {
+    "value": "Biology",
+    "synonyms": [
+      "Biology"
+    ]
+  },
+  {
+    "value": "Alternate History",
+    "synonyms": [
+      "Alternate History"
+    ]
+  },
+  {
+    "value": "Popular Science",
+    "synonyms": [
+      "Popular Science"
+    ]
+  },
+  {
+    "value": "Historical Mystery",
+    "synonyms": [
+      "Historical Mystery"
+    ]
+  },
+  {
+    "value": "Psychological Thriller",
+    "synonyms": [
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "value": "Dogs",
+    "synonyms": [
+      "Dogs"
+    ]
+  },
+  {
+    "value": "Journalism",
+    "synonyms": [
+      "Journalism"
+    ]
+  },
+  {
+    "value": "Lesbian",
+    "synonyms": [
+      "Lesbian"
+    ]
+  },
+  {
+    "value": "Spain",
+    "synonyms": [
+      "Spain"
+    ]
+  },
+  {
+    "value": "European History",
+    "synonyms": [
+      "European History"
+    ]
+  },
+  {
+    "value": "Portuguese Literature",
+    "synonyms": [
+      "Portuguese Literature"
+    ]
+  },
+  {
+    "value": "18th Century",
+    "synonyms": [
+      "18th Century"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics"
+    ]
+  },
+  {
+    "value": "Futuristic",
+    "synonyms": [
+      "Futuristic"
+    ]
+  },
+  {
+    "value": "Technology",
+    "synonyms": [
+      "Technology"
+    ]
+  },
+  {
+    "value": "Parenting",
+    "synonyms": [
+      "Parenting"
+    ]
+  },
+  {
+    "value": "Holiday",
+    "synonyms": [
+      "Holiday"
+    ]
+  },
+  {
+    "value": "Horses",
+    "synonyms": [
+      "Horses"
+    ]
+  },
+  {
+    "value": "Fantasy Romance",
+    "synonyms": [
+      "Fantasy Romance"
+    ]
+  },
+  {
+    "value": "Medicine",
+    "synonyms": [
+      "Medicine"
+    ]
+  },
+  {
+    "value": "World History",
+    "synonyms": [
+      "World History"
+    ]
+  },
+  {
+    "value": "Finance",
+    "synonyms": [
+      "Finance"
+    ]
+  },
+  {
+    "value": "Sports Romance",
+    "synonyms": [
+      "Sports Romance"
+    ]
+  },
+  {
+    "value": "Disability",
+    "synonyms": [
+      "Disability"
+    ]
+  },
+  {
+    "value": "Film",
+    "synonyms": [
+      "Film"
+    ]
+  },
+  {
+    "value": "Political Science",
+    "synonyms": [
+      "Political Science"
+    ]
+  },
+  {
+    "value": "Turkish Literature",
+    "synonyms": [
+      "Turkish Literature"
+    ]
+  },
+  {
+    "value": "Polish Literature",
+    "synonyms": [
+      "Polish Literature"
+    ]
+  },
+  {
+    "value": "Historical Fantasy",
+    "synonyms": [
+      "Historical Fantasy"
+    ]
+  },
+  {
+    "value": "Marriage",
+    "synonyms": [
+      "Marriage"
+    ]
+  },
+  {
+    "value": "Social Justice",
+    "synonyms": [
+      "Social Justice"
+    ]
+  },
+  {
+    "value": "Cyberpunk",
+    "synonyms": [
+      "Cyberpunk"
+    ]
+  },
+  {
+    "value": "Shojo",
+    "synonyms": [
+      "Shojo"
+    ]
+  },
+  {
+    "value": "Gender",
+    "synonyms": [
+      "Gender"
+    ]
+  },
+  {
+    "value": "Turkish",
+    "synonyms": [
+      "Turkish"
+    ]
+  },
+  {
+    "value": "Storytime",
+    "synonyms": [
+      "Storytime"
+    ]
+  },
+  {
+    "value": "Urban",
+    "synonyms": [
+      "Urban"
+    ]
+  },
+  {
+    "value": "Comix",
+    "synonyms": [
+      "Comix"
+    ]
+  },
+  {
+    "value": "Management",
+    "synonyms": [
+      "Management"
+    ]
+  },
+  {
+    "value": "Swedish Literature",
+    "synonyms": [
+      "Swedish Literature"
+    ]
+  },
+  {
+    "value": "Americana",
+    "synonyms": [
+      "Americana"
+    ]
+  },
+  {
+    "value": "True Story",
+    "synonyms": [
+      "True Story"
+    ]
+  },
+  {
+    "value": "Greece",
+    "synonyms": [
+      "Greece"
+    ]
+  },
+  {
+    "value": "Poland",
+    "synonyms": [
+      "Poland"
+    ]
+  },
+  {
+    "value": "Shonen",
+    "synonyms": [
+      "Shonen"
+    ]
+  },
+  {
+    "value": "Academic",
+    "synonyms": [
+      "Academic"
+    ]
+  },
+  {
+    "value": "Menage",
+    "synonyms": [
+      "Menage"
+    ]
+  },
+  {
+    "value": "Dc Comics",
+    "synonyms": [
+      "Dc Comics"
+    ]
+  },
+  {
+    "value": "Cooking",
+    "synonyms": [
+      "Cooking"
+    ]
+  },
+  {
+    "value": "Pirates",
+    "synonyms": [
+      "Pirates"
+    ]
+  },
+  {
+    "value": "Fairy Tale Retellings",
+    "synonyms": [
+      "Fairy Tale Retellings"
+    ]
+  },
+  {
+    "value": "Ancient History",
+    "synonyms": [
+      "Ancient History"
+    ]
+  },
+  {
+    "value": "Latin American Literature",
+    "synonyms": [
+      "Latin American Literature"
+    ]
+  },
+  {
+    "value": "Romantic",
+    "synonyms": [
+      "Romantic"
+    ]
+  },
+  {
+    "value": "Animal Fiction",
+    "synonyms": [
+      "Animal Fiction"
+    ]
+  },
+  {
+    "value": "English Literature",
+    "synonyms": [
+      "English Literature"
+    ]
+  },
+  {
+    "value": "Greek Mythology",
+    "synonyms": [
+      "Greek Mythology"
+    ]
+  },
+  {
+    "value": "Pop Culture",
+    "synonyms": [
+      "Pop Culture"
+    ]
+  },
+  {
+    "value": "Ancient",
+    "synonyms": [
+      "Ancient"
+    ]
+  },
+  {
+    "value": "Civil War",
+    "synonyms": [
+      "Civil War"
+    ]
+  },
+  {
+    "value": "Mathematics",
+    "synonyms": [
+      "Mathematics"
+    ]
+  },
+  {
+    "value": "Clean Romance",
+    "synonyms": [
+      "Clean Romance"
+    ]
+  },
+  {
+    "value": "Bande Dessinée",
+    "synonyms": [
+      "Bande Dessinée"
+    ]
+  },
+  {
+    "value": "Buddhism",
+    "synonyms": [
+      "Buddhism"
+    ]
+  },
+  {
+    "value": "Star Wars",
+    "synonyms": [
+      "Star Wars"
+    ]
+  },
+  {
+    "value": "Musicians",
+    "synonyms": [
+      "Musicians"
+    ]
+  },
+  {
+    "value": "Canadian Literature",
+    "synonyms": [
+      "Canadian Literature"
+    ]
+  },
+  {
+    "value": "Social Science",
+    "synonyms": [
+      "Social Science"
+    ]
+  },
+  {
+    "value": "Marvel",
+    "synonyms": [
+      "Marvel"
+    ]
+  },
+  {
+    "value": "Productivity",
+    "synonyms": [
+      "Productivity"
+    ]
+  },
+  {
+    "value": "Sexuality",
+    "synonyms": [
+      "Sexuality"
+    ]
+  },
+  {
+    "value": "Anime",
+    "synonyms": [
+      "Anime"
+    ]
+  },
+  {
+    "value": "Spy Thriller",
+    "synonyms": [
+      "Spy Thriller"
+    ]
+  },
+  {
+    "value": "Society",
+    "synonyms": [
+      "Society"
+    ]
+  },
+  {
+    "value": "Lds",
+    "synonyms": [
+      "Lds"
+    ]
+  },
+  {
+    "value": "Buisness",
+    "synonyms": [
+      "Buisness"
+    ]
+  },
+  {
+    "value": "Christian Historical Fiction",
+    "synonyms": [
+      "Christian Historical Fiction"
+    ]
+  },
+  {
+    "value": "Western Romance",
+    "synonyms": [
+      "Western Romance"
+    ]
+  },
+  {
+    "value": "Sweden",
+    "synonyms": [
+      "Sweden"
+    ]
+  },
+  {
+    "value": "Metaphysics",
+    "synonyms": [
+      "Metaphysics"
+    ]
+  },
+  {
+    "value": "Diary",
+    "synonyms": [
+      "Diary"
+    ]
+  },
+  {
+    "value": "New Age",
+    "synonyms": [
+      "New Age"
+    ]
+  },
+  {
+    "value": "Dutch Literature",
+    "synonyms": [
+      "Dutch Literature"
+    ]
+  },
+  {
+    "value": "Young Adult Paranormal",
+    "synonyms": [
+      "Young Adult Paranormal"
+    ]
+  },
+  {
+    "value": "Boarding School",
+    "synonyms": [
+      "Boarding School"
+    ]
+  },
+  {
+    "value": "Evolution",
+    "synonyms": [
+      "Evolution"
+    ]
+  },
+  {
+    "value": "World War I",
+    "synonyms": [
+      "World War I"
+    ]
+  },
+  {
+    "value": "Christian Fantasy",
+    "synonyms": [
+      "Christian Fantasy"
+    ]
+  },
+  {
+    "value": "Portugal",
+    "synonyms": [
+      "Portugal"
+    ]
+  },
+  {
+    "value": "Modern Classics",
+    "synonyms": [
+      "Modern Classics"
+    ]
+  },
+  {
+    "value": "Sword and Sorcery",
+    "synonyms": [
+      "Sword and Sorcery"
+    ]
+  },
+  {
+    "value": "Cookbooks",
+    "synonyms": [
+      "Cookbooks"
+    ]
+  },
+  {
+    "value": "Entrepreneurship",
+    "synonyms": [
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "value": "Natural History",
+    "synonyms": [
+      "Natural History"
+    ]
+  },
+  {
+    "value": "Arthurian",
+    "synonyms": [
+      "Arthurian"
+    ]
+  },
+  {
+    "value": "Language",
+    "synonyms": [
+      "Language"
+    ]
+  },
+  {
+    "value": "Literary Criticism",
+    "synonyms": [
+      "Literary Criticism"
+    ]
+  },
+  {
+    "value": "Catholic",
+    "synonyms": [
+      "Catholic"
+    ]
+  },
+  {
+    "value": "Iran",
+    "synonyms": [
+      "Iran"
+    ]
+  },
+  {
+    "value": "Mermaids",
+    "synonyms": [
+      "Mermaids"
+    ]
+  },
+  {
+    "value": "Art History",
+    "synonyms": [
+      "Art History"
+    ]
+  },
+  {
+    "value": "Photography",
+    "synonyms": [
+      "Photography"
+    ]
+  },
+  {
+    "value": "Medieval Romance",
+    "synonyms": [
+      "Medieval Romance"
+    ]
+  },
+  {
+    "value": "Judaism",
+    "synonyms": [
+      "Judaism"
+    ]
+  },
+  {
+    "value": "Police",
+    "synonyms": [
+      "Police"
+    ]
+  },
+  {
+    "value": "Church",
+    "synonyms": [
+      "Church"
+    ]
+  },
+  {
+    "value": "Folklore",
+    "synonyms": [
+      "Folklore"
+    ]
+  },
+  {
+    "value": "17th Century",
+    "synonyms": [
+      "17th Century"
+    ]
+  },
+  {
+    "value": "Romanian Literature",
+    "synonyms": [
+      "Romanian Literature"
+    ]
+  },
+  {
+    "value": "Science Fiction Romance",
+    "synonyms": [
+      "Science Fiction Romance"
+    ]
+  },
+  {
+    "value": "Money",
+    "synonyms": [
+      "Money"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "Football",
+    "synonyms": [
+      "Football"
+    ]
+  },
+  {
+    "value": "Female Authors",
+    "synonyms": [
+      "Female Authors"
+    ]
+  },
+  {
+    "value": "Harlequin",
+    "synonyms": [
+      "Harlequin"
+    ]
+  },
+  {
+    "value": "Occult",
+    "synonyms": [
+      "Occult"
+    ]
+  },
+  {
+    "value": "How To",
+    "synonyms": [
+      "How To"
+    ]
+  },
+  {
+    "value": "Criticism",
+    "synonyms": [
+      "Criticism"
+    ]
+  },
+  {
+    "value": "Astronomy",
+    "synonyms": [
+      "Astronomy"
+    ]
+  },
+  {
+    "value": "Law",
+    "synonyms": [
+      "Law"
+    ]
+  },
+  {
+    "value": "16th Century",
+    "synonyms": [
+      "16th Century"
+    ]
+  },
+  {
+    "value": "Seinen",
+    "synonyms": [
+      "Seinen"
+    ]
+  },
+  {
+    "value": "Weird Fiction",
+    "synonyms": [
+      "Weird Fiction"
+    ]
+  },
+  {
+    "value": "Atheism",
+    "synonyms": [
+      "Atheism"
+    ]
+  },
+  {
+    "value": "Tv",
+    "synonyms": [
+      "Tv"
+    ]
+  },
+  {
+    "value": "Legal Thriller",
+    "synonyms": [
+      "Legal Thriller"
+    ]
+  },
+  {
+    "value": "Finnish Literature",
+    "synonyms": [
+      "Finnish Literature"
+    ]
+  },
+  {
+    "value": "Egyptian Literature",
+    "synonyms": [
+      "Egyptian Literature"
+    ]
+  },
+  {
+    "value": "Neuroscience",
+    "synonyms": [
+      "Neuroscience"
+    ]
+  },
+  {
+    "value": "Baseball",
+    "synonyms": [
+      "Baseball"
+    ]
+  },
+  {
+    "value": "Brazil",
+    "synonyms": [
+      "Brazil"
+    ]
+  },
+  {
+    "value": "Czech Literature",
+    "synonyms": [
+      "Czech Literature"
+    ]
+  },
+  {
+    "value": "Ecology",
+    "synonyms": [
+      "Ecology"
+    ]
+  },
+  {
+    "value": "Hard Science Fiction",
+    "synonyms": [
+      "Hard Science Fiction"
+    ]
+  },
+  {
+    "value": "Military Romance",
+    "synonyms": [
+      "Military Romance"
+    ]
+  },
+  {
+    "value": "Lesbian Romance",
+    "synonyms": [
+      "Lesbian Romance"
+    ]
+  },
+  {
+    "value": "Short Story Collection",
+    "synonyms": [
+      "Short Story Collection"
+    ]
+  },
+  {
+    "value": "Wolves",
+    "synonyms": [
+      "Wolves"
+    ]
+  },
+  {
+    "value": "Childrens Classics",
+    "synonyms": [
+      "Childrens Classics"
+    ]
+  },
+  {
+    "value": "Presidents",
+    "synonyms": [
+      "Presidents"
+    ]
+  },
+  {
+    "value": "Southern Gothic",
+    "synonyms": [
+      "Southern Gothic"
+    ]
+  },
+  {
+    "value": "Light Novel",
+    "synonyms": [
+      "Light Novel"
+    ]
+  },
+  {
+    "value": "Batman",
+    "synonyms": [
+      "Batman"
+    ]
+  },
+  {
+    "value": "Military Science Fiction",
+    "synonyms": [
+      "Military Science Fiction"
+    ]
+  },
+  {
+    "value": "American Fiction",
+    "synonyms": [
+      "American Fiction"
+    ]
+  },
+  {
+    "value": "New Adult Romance",
+    "synonyms": [
+      "New Adult Romance"
+    ]
+  },
+  {
+    "value": "Native Americans",
+    "synonyms": [
+      "Native Americans"
+    ]
+  },
+  {
+    "value": "Research",
+    "synonyms": [
+      "Research"
+    ]
+  },
+  {
+    "value": "Amish",
+    "synonyms": [
+      "Amish"
+    ]
+  },
+  {
+    "value": "Own",
+    "synonyms": [
+      "Own"
+    ]
+  },
+  {
+    "value": "Slice Of Life",
+    "synonyms": [
+      "Slice Of Life"
+    ]
+  },
+  {
+    "value": "Lesbian Fiction",
+    "synonyms": [
+      "Lesbian Fiction"
+    ]
+  },
+  {
+    "value": "Banned Books",
+    "synonyms": [
+      "Banned Books"
+    ]
+  },
+  {
+    "value": "Games",
+    "synonyms": [
+      "Games"
+    ]
+  },
+  {
+    "value": "African Literature",
+    "synonyms": [
+      "African Literature"
+    ]
+  },
+  {
+    "value": "Tudor Period",
+    "synonyms": [
+      "Tudor Period"
+    ]
+  },
+  {
+    "value": "Video Games",
+    "synonyms": [
+      "Video Games"
+    ]
+  },
+  {
+    "value": "Halloween",
+    "synonyms": [
+      "Halloween"
+    ]
+  },
+  {
+    "value": "Gaming",
+    "synonyms": [
+      "Gaming"
+    ]
+  },
+  {
+    "value": "Adoption",
+    "synonyms": [
+      "Adoption"
+    ]
+  },
+  {
+    "value": "Romania",
+    "synonyms": [
+      "Romania"
+    ]
+  },
+  {
+    "value": "Israel",
+    "synonyms": [
+      "Israel"
+    ]
+  },
+  {
+    "value": "Pakistan",
+    "synonyms": [
+      "Pakistan"
+    ]
+  },
+  {
+    "value": "2nd Grade",
+    "synonyms": [
+      "2nd Grade"
+    ]
+  },
+  {
+    "value": "Teaching",
+    "synonyms": [
+      "Teaching"
+    ]
+  },
+  {
+    "value": "Archaeology",
+    "synonyms": [
+      "Archaeology"
+    ]
+  },
+  {
+    "value": "Love Story",
+    "synonyms": [
+      "Love Story"
+    ]
+  },
+  {
+    "value": "Ghost Stories",
+    "synonyms": [
+      "Ghost Stories"
+    ]
+  },
+  {
+    "value": "European Literature",
+    "synonyms": [
+      "European Literature"
+    ]
+  },
+  {
+    "value": "Danish",
+    "synonyms": [
+      "Danish"
+    ]
+  },
+  {
+    "value": "Textbooks",
+    "synonyms": [
+      "Textbooks"
+    ]
+  },
+  {
+    "value": "Comic Strips",
+    "synonyms": [
+      "Comic Strips"
+    ]
+  },
+  {
+    "value": "Dungeons and Dragons",
+    "synonyms": [
+      "Dungeons and Dragons"
+    ]
+  },
+  {
+    "value": "Motorcycle",
+    "synonyms": [
+      "Motorcycle"
+    ]
+  },
+  {
+    "value": "Fighters",
+    "synonyms": [
+      "Fighters"
+    ]
+  },
+  {
+    "value": "Young Adult Historical Fiction",
+    "synonyms": [
+      "Young Adult Historical Fiction"
+    ]
+  },
+  {
+    "value": "Beauty and The Beast",
+    "synonyms": [
+      "Beauty and The Beast"
+    ]
+  },
+  {
+    "value": "United States",
+    "synonyms": [
+      "United States"
+    ]
+  },
+  {
+    "value": "American Civil War",
+    "synonyms": [
+      "American Civil War"
+    ]
+  },
+  {
+    "value": "Communication",
+    "synonyms": [
+      "Communication"
+    ]
+  },
+  {
+    "value": "Brain",
+    "synonyms": [
+      "Brain"
+    ]
+  },
+  {
+    "value": "Terrorism",
+    "synonyms": [
+      "Terrorism"
+    ]
+  },
+  {
+    "value": "Sequential Art",
+    "synonyms": [
+      "Sequential Art"
+    ]
+  },
+  {
+    "value": "Mysticism",
+    "synonyms": [
+      "Mysticism"
+    ]
+  },
+  {
+    "value": "Outdoors",
+    "synonyms": [
+      "Outdoors"
+    ]
+  },
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science"
+    ]
+  },
+  {
+    "value": "Linguistics",
+    "synonyms": [
+      "Linguistics"
+    ]
+  },
+  {
+    "value": "South Africa",
+    "synonyms": [
+      "South Africa"
+    ]
+  },
+  {
+    "value": "American Revolution",
+    "synonyms": [
+      "American Revolution"
+    ]
+  },
+  {
+    "value": "Lds Fiction",
+    "synonyms": [
+      "Lds Fiction"
+    ]
+  },
+  {
+    "value": "Doctor Who",
+    "synonyms": [
+      "Doctor Who"
+    ]
+  },
+  {
+    "value": "Birds",
+    "synonyms": [
+      "Birds"
+    ]
+  },
+  {
+    "value": "Aviation",
+    "synonyms": [
+      "Aviation"
+    ]
+  },
+  {
+    "value": "Monsters",
+    "synonyms": [
+      "Monsters"
+    ]
+  },
+  {
+    "value": "Sustainability",
+    "synonyms": [
+      "Sustainability"
+    ]
+  },
+  {
+    "value": "Counselling",
+    "synonyms": [
+      "Counselling"
+    ]
+  },
+  {
+    "value": "Pulp",
+    "synonyms": [
+      "Pulp"
+    ]
+  },
+  {
+    "value": "Sci Fi Fantasy",
+    "synonyms": [
+      "Sci Fi Fantasy"
+    ]
+  },
+  {
+    "value": "History Of Science",
+    "synonyms": [
+      "History Of Science"
+    ]
+  },
+  {
+    "value": "Maritime",
+    "synonyms": [
+      "Maritime"
+    ]
+  },
+  {
+    "value": "Biblical Fiction",
+    "synonyms": [
+      "Biblical Fiction"
+    ]
+  },
+  {
+    "value": "Foodie",
+    "synonyms": [
+      "Foodie"
+    ]
+  },
+  {
+    "value": "African American Literature",
+    "synonyms": [
+      "African American Literature"
+    ]
+  },
+  {
+    "value": "Psychoanalysis",
+    "synonyms": [
+      "Psychoanalysis"
+    ]
+  },
+  {
+    "value": "Heroic Fantasy",
+    "synonyms": [
+      "Heroic Fantasy"
+    ]
+  },
+  {
+    "value": "Computers",
+    "synonyms": [
+      "Computers"
+    ]
+  },
+  {
+    "value": "Gay For You",
+    "synonyms": [
+      "Gay For You"
+    ]
+  },
+  {
+    "value": "Road Trip",
+    "synonyms": [
+      "Road Trip"
+    ]
+  },
+  {
+    "value": "Fostering",
+    "synonyms": [
+      "Fostering"
+    ]
+  },
+  {
+    "value": "Amish Fiction",
+    "synonyms": [
+      "Amish Fiction"
+    ]
+  },
+  {
+    "value": "Gay Fiction",
+    "synonyms": [
+      "Gay Fiction"
+    ]
+  },
+  {
+    "value": "Chinese Literature",
+    "synonyms": [
+      "Chinese Literature"
+    ]
+  },
+  {
+    "value": "Hockey",
+    "synonyms": [
+      "Hockey"
+    ]
+  },
+  {
+    "value": "Lovecraftian",
+    "synonyms": [
+      "Lovecraftian"
+    ]
+  },
+  {
+    "value": "Fashion",
+    "synonyms": [
+      "Fashion"
+    ]
+  },
+  {
+    "value": "Gods",
+    "synonyms": [
+      "Gods"
+    ]
+  },
+  {
+    "value": "Nutrition",
+    "synonyms": [
+      "Nutrition"
+    ]
+  },
+  {
+    "value": "Anti Racist",
+    "synonyms": [
+      "Anti Racist"
+    ]
+  },
+  {
+    "value": "Architecture",
+    "synonyms": [
+      "Architecture"
+    ]
+  },
+  {
+    "value": "Social",
+    "synonyms": [
+      "Social"
+    ]
+  },
+  {
+    "value": "Gender Studies",
+    "synonyms": [
+      "Gender Studies"
+    ]
+  },
+  {
+    "value": "Young Readers",
+    "synonyms": [
+      "Young Readers"
+    ]
+  },
+  {
+    "value": "Nordic Noir",
+    "synonyms": [
+      "Nordic Noir"
+    ]
+  },
+  {
+    "value": "Government",
+    "synonyms": [
+      "Government"
+    ]
+  },
+  {
+    "value": "Lebanon",
+    "synonyms": [
+      "Lebanon"
+    ]
+  },
+  {
+    "value": "Personal Finance",
+    "synonyms": [
+      "Personal Finance"
+    ]
+  },
+  {
+    "value": "Crafts",
+    "synonyms": [
+      "Crafts"
+    ]
+  },
+  {
+    "value": "Illness",
+    "synonyms": [
+      "Illness"
+    ]
+  },
+  {
+    "value": "Womens Studies",
+    "synonyms": [
+      "Womens Studies"
+    ]
+  },
+  {
+    "value": "Robots",
+    "synonyms": [
+      "Robots"
+    ]
+  },
+  {
+    "value": "Reverse Harem",
+    "synonyms": [
+      "Reverse Harem"
+    ]
+  },
+  {
+    "value": "Prayer",
+    "synonyms": [
+      "Prayer"
+    ]
+  },
+  {
+    "value": "Travelogue",
+    "synonyms": [
+      "Travelogue"
+    ]
+  },
+  {
+    "value": "Food and Drink",
+    "synonyms": [
+      "Food and Drink"
+    ]
+  },
+  {
+    "value": "Forgotten Realms",
+    "synonyms": [
+      "Forgotten Realms"
+    ]
+  },
+  {
+    "value": "Science Nature",
+    "synonyms": [
+      "Science Nature"
+    ]
+  },
+  {
+    "value": "Romanticism",
+    "synonyms": [
+      "Romanticism"
+    ]
+  },
+  {
+    "value": "Belgium",
+    "synonyms": [
+      "Belgium"
+    ]
+  },
+  {
+    "value": "Hard Boiled",
+    "synonyms": [
+      "Hard Boiled"
+    ]
+  },
+  {
+    "value": "Eastern Philosophy",
+    "synonyms": [
+      "Eastern Philosophy"
+    ]
+  },
+  {
+    "value": "Art Design",
+    "synonyms": [
+      "Art Design"
+    ]
+  },
+  {
+    "value": "Fitness",
+    "synonyms": [
+      "Fitness"
+    ]
+  },
+  {
+    "value": "Denmark",
+    "synonyms": [
+      "Denmark"
+    ]
+  },
+  {
+    "value": "Georgian",
+    "synonyms": [
+      "Georgian"
+    ]
+  },
+  {
+    "value": "Yaoi",
+    "synonyms": [
+      "Yaoi"
+    ]
+  },
+  {
+    "value": "Bulgarian Literature",
+    "synonyms": [
+      "Bulgarian Literature"
+    ]
+  },
+  {
+    "value": "Paranormal Mystery",
+    "synonyms": [
+      "Paranormal Mystery"
+    ]
+  },
+  {
+    "value": "Poverty",
+    "synonyms": [
+      "Poverty"
+    ]
+  },
+  {
+    "value": "Programming",
+    "synonyms": [
+      "Programming"
+    ]
+  },
+  {
+    "value": "Gardening",
+    "synonyms": [
+      "Gardening"
+    ]
+  },
+  {
+    "value": "Rock N Roll",
+    "synonyms": [
+      "Rock N Roll"
+    ]
+  },
+  {
+    "value": "Biblical",
+    "synonyms": [
+      "Biblical"
+    ]
+  },
+  {
+    "value": "Tragedy",
+    "synonyms": [
+      "Tragedy"
+    ]
+  },
+  {
+    "value": "Elves",
+    "synonyms": [
+      "Elves"
+    ]
+  },
+  {
+    "value": "Conspiracy Theories",
+    "synonyms": [
+      "Conspiracy Theories"
+    ]
+  },
+  {
+    "value": "Cartoon",
+    "synonyms": [
+      "Cartoon"
+    ]
+  },
+  {
+    "value": "Culinary",
+    "synonyms": [
+      "Culinary"
+    ]
+  },
+  {
+    "value": "Artificial Intelligence",
+    "synonyms": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "value": "Medieval History",
+    "synonyms": [
+      "Medieval History"
+    ]
+  },
+  {
+    "value": "Activism",
+    "synonyms": [
+      "Activism"
+    ]
+  },
+  {
+    "value": "Zen",
+    "synonyms": [
+      "Zen"
+    ]
+  },
+  {
+    "value": "Hugo Awards",
+    "synonyms": [
+      "Hugo Awards"
+    ]
+  },
+  {
+    "value": "Prehistoric",
+    "synonyms": [
+      "Prehistoric"
+    ]
+  },
+  {
+    "value": "Martial Arts",
+    "synonyms": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "value": "M M F",
+    "synonyms": [
+      "M M F"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "French Revolution",
+    "synonyms": [
+      "French Revolution"
+    ]
+  },
+  {
+    "value": "Transgender",
+    "synonyms": [
+      "Transgender"
+    ]
+  },
+  {
+    "value": "Human Development",
+    "synonyms": [
+      "Human Development"
+    ]
+  },
+  {
+    "value": "Social Issues",
+    "synonyms": [
+      "Social Issues"
+    ]
+  },
+  {
+    "value": "International",
+    "synonyms": [
+      "International"
+    ]
+  },
+  {
+    "value": "Graphic Novels Manga",
+    "synonyms": [
+      "Graphic Novels Manga"
+    ]
+  },
+  {
+    "value": "Technical",
+    "synonyms": [
+      "Technical"
+    ]
+  },
+  {
+    "value": "Russian History",
+    "synonyms": [
+      "Russian History"
+    ]
+  },
+  {
+    "value": "Witchcraft",
+    "synonyms": [
+      "Witchcraft"
+    ]
+  },
+  {
+    "value": "Art and Photography",
+    "synonyms": [
+      "Art and Photography"
+    ]
+  },
+  {
+    "value": "Geography",
+    "synonyms": [
+      "Geography"
+    ]
+  },
+  {
+    "value": "American Revolutionary War",
+    "synonyms": [
+      "American Revolutionary War"
+    ]
+  },
+  {
+    "value": "Basketball",
+    "synonyms": [
+      "Basketball"
+    ]
+  },
+  {
+    "value": "Hinduism",
+    "synonyms": [
+      "Hinduism"
+    ]
+  },
+  {
+    "value": "International Relations",
+    "synonyms": [
+      "International Relations"
+    ]
+  },
+  {
+    "value": "M F M",
+    "synonyms": [
+      "M F M"
+    ]
+  },
+  {
+    "value": "M M Contemporary",
+    "synonyms": [
+      "M M Contemporary"
+    ]
+  },
+  {
+    "value": "Boys Love",
+    "synonyms": [
+      "Boys Love"
+    ]
+  },
+  {
+    "value": "Fan Fiction",
+    "synonyms": [
+      "Fan Fiction"
+    ]
+  },
+  {
+    "value": "Interracial Romance",
+    "synonyms": [
+      "Interracial Romance"
+    ]
+  },
+  {
+    "value": "Young Adult Science Fiction",
+    "synonyms": [
+      "Young Adult Science Fiction"
+    ]
+  },
+  {
+    "value": "1st Grade",
+    "synonyms": [
+      "1st Grade"
+    ]
+  },
+  {
+    "value": "Time Travel Romance",
+    "synonyms": [
+      "Time Travel Romance"
+    ]
+  },
+  {
+    "value": "Western Historical Romance",
+    "synonyms": [
+      "Western Historical Romance"
+    ]
+  },
+  {
+    "value": "Unicorns",
+    "synonyms": [
+      "Unicorns"
+    ]
+  },
+  {
+    "value": "Nigeria",
+    "synonyms": [
+      "Nigeria"
+    ]
+  },
+  {
+    "value": "X Men",
+    "synonyms": [
+      "X Men"
+    ]
+  },
+  {
+    "value": "Lds Non Fiction",
+    "synonyms": [
+      "Lds Non Fiction"
+    ]
+  },
+  {
+    "value": "Judaica",
+    "synonyms": [
+      "Judaica"
+    ]
+  },
+  {
+    "value": "Hungary",
+    "synonyms": [
+      "Hungary"
+    ]
+  },
+  {
+    "value": "Princesses",
+    "synonyms": [
+      "Princesses"
+    ]
+  },
+  {
+    "value": "Hungarian Literature",
+    "synonyms": [
+      "Hungarian Literature"
+    ]
+  },
+  {
+    "value": "Magick",
+    "synonyms": [
+      "Magick"
+    ]
+  },
+  {
+    "value": "Grad School",
+    "synonyms": [
+      "Grad School"
+    ]
+  },
+  {
+    "value": "Mormonism",
+    "synonyms": [
+      "Mormonism"
+    ]
+  },
+  {
+    "value": "Paganism",
+    "synonyms": [
+      "Paganism"
+    ]
+  },
+  {
+    "value": "Superman",
+    "synonyms": [
+      "Superman"
+    ]
+  },
+  {
+    "value": "Dinosaurs",
+    "synonyms": [
+      "Dinosaurs"
+    ]
+  },
+  {
+    "value": "Poetry Plays",
+    "synonyms": [
+      "Poetry Plays"
+    ]
+  },
+  {
+    "value": "Belgian",
+    "synonyms": [
+      "Belgian"
+    ]
+  },
+  {
+    "value": "Cult Classics",
+    "synonyms": [
+      "Cult Classics"
+    ]
+  },
+  {
+    "value": "Comic Fantasy",
+    "synonyms": [
+      "Comic Fantasy"
+    ]
+  },
+  {
+    "value": "Komik",
+    "synonyms": [
+      "Komik"
+    ]
+  },
+  {
+    "value": "Wicca",
+    "synonyms": [
+      "Wicca"
+    ]
+  },
+  {
+    "value": "15th Century",
+    "synonyms": [
+      "15th Century"
+    ]
+  },
+  {
+    "value": "Serbian Literature",
+    "synonyms": [
+      "Serbian Literature"
+    ]
+  },
+  {
+    "value": "Church History",
+    "synonyms": [
+      "Church History"
+    ]
+  },
+  {
+    "value": "Vegan",
+    "synonyms": [
+      "Vegan"
+    ]
+  },
+  {
+    "value": "Skepticism",
+    "synonyms": [
+      "Skepticism"
+    ]
+  },
+  {
+    "value": "Soccer",
+    "synonyms": [
+      "Soccer"
+    ]
+  },
+  {
+    "value": "Splatterpunk",
+    "synonyms": [
+      "Splatterpunk"
+    ]
+  },
+  {
+    "value": "New Weird",
+    "synonyms": [
+      "New Weird"
+    ]
+  },
+  {
+    "value": "Discipleship",
+    "synonyms": [
+      "Discipleship"
+    ]
+  },
+  {
+    "value": "Diets",
+    "synonyms": [
+      "Diets"
+    ]
+  },
+  {
+    "value": "Star Trek",
+    "synonyms": [
+      "Star Trek"
+    ]
+  },
+  {
+    "value": "God",
+    "synonyms": [
+      "God"
+    ]
+  },
+  {
+    "value": "M M Fantasy",
+    "synonyms": [
+      "M M Fantasy"
+    ]
+  },
+  {
+    "value": "Cthulhu Mythos",
+    "synonyms": [
+      "Cthulhu Mythos"
+    ]
+  },
+  {
+    "value": "New Testament",
+    "synonyms": [
+      "New Testament"
+    ]
+  },
+  {
+    "value": "Cinderella",
+    "synonyms": [
+      "Cinderella"
+    ]
+  },
+  {
+    "value": "Cults",
+    "synonyms": [
+      "Cults"
+    ]
+  },
+  {
+    "value": "Scripture",
+    "synonyms": [
+      "Scripture"
+    ]
+  },
+  {
+    "value": "Old Testament",
+    "synonyms": [
+      "Old Testament"
+    ]
+  },
+  {
+    "value": "Prehistory",
+    "synonyms": [
+      "Prehistory"
+    ]
+  },
+  {
+    "value": "Webcomic",
+    "synonyms": [
+      "Webcomic"
+    ]
+  },
+  {
+    "value": "Cities",
+    "synonyms": [
+      "Cities"
+    ]
+  },
+  {
+    "value": "Academia",
+    "synonyms": [
+      "Academia"
+    ]
+  },
+  {
+    "value": "12th Century",
+    "synonyms": [
+      "12th Century"
+    ]
+  },
+  {
+    "value": "Surreal",
+    "synonyms": [
+      "Surreal"
+    ]
+  },
+  {
+    "value": "Bulgaria",
+    "synonyms": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "value": "Quantum Mechanics",
+    "synonyms": [
+      "Quantum Mechanics"
+    ]
+  },
+  {
+    "value": "Psychiatry",
+    "synonyms": [
+      "Psychiatry"
+    ]
+  },
+  {
+    "value": "Divorce",
+    "synonyms": [
+      "Divorce"
+    ]
+  },
+  {
+    "value": "Gothic Romance",
+    "synonyms": [
+      "Gothic Romance"
+    ]
+  },
+  {
+    "value": "Marathi",
+    "synonyms": [
+      "Marathi"
+    ]
+  },
+  {
+    "value": "Kenya",
+    "synonyms": [
+      "Kenya"
+    ]
+  },
+  {
+    "value": "Cultural Studies",
+    "synonyms": [
+      "Cultural Studies"
+    ]
+  },
+  {
+    "value": "Teachers",
+    "synonyms": [
+      "Teachers"
+    ]
+  },
+  {
+    "value": "Genetics",
+    "synonyms": [
+      "Genetics"
+    ]
+  },
+  {
+    "value": "Morocco",
+    "synonyms": [
+      "Morocco"
+    ]
+  },
+  {
+    "value": "Social Work",
+    "synonyms": [
+      "Social Work"
+    ]
+  },
+  {
+    "value": "Folk Tales",
+    "synonyms": [
+      "Folk Tales"
+    ]
+  },
+  {
+    "value": "Punk",
+    "synonyms": [
+      "Punk"
+    ]
+  },
+  {
+    "value": "Us Presidents",
+    "synonyms": [
+      "Us Presidents"
+    ]
+  },
+  {
+    "value": "14th Century",
+    "synonyms": [
+      "14th Century"
+    ]
+  },
+  {
+    "value": "Software",
+    "synonyms": [
+      "Software"
+    ]
+  },
+  {
+    "value": "Firefighters",
+    "synonyms": [
+      "Firefighters"
+    ]
+  },
+  {
+    "value": "Category Romance",
+    "synonyms": [
+      "Category Romance"
+    ]
+  },
+  {
+    "value": "Mixed Martial Arts",
+    "synonyms": [
+      "Mixed Martial Arts"
+    ]
+  },
+  {
+    "value": "The World",
+    "synonyms": [
+      "The World"
+    ]
+  },
+  {
+    "value": "Queer Lit",
+    "synonyms": [
+      "Queer Lit"
+    ]
+  },
+  {
+    "value": "Music Biography",
+    "synonyms": [
+      "Music Biography"
+    ]
+  },
+  {
+    "value": "Josei",
+    "synonyms": [
+      "Josei"
+    ]
+  },
+  {
+    "value": "Naval History",
+    "synonyms": [
+      "Naval History"
+    ]
+  },
+  {
+    "value": "Drawing",
+    "synonyms": [
+      "Drawing"
+    ]
+  },
+  {
+    "value": "Wildlife",
+    "synonyms": [
+      "Wildlife"
+    ]
+  },
+  {
+    "value": "Bangladesh",
+    "synonyms": [
+      "Bangladesh"
+    ]
+  },
+  {
+    "value": "School Stories",
+    "synonyms": [
+      "School Stories"
+    ]
+  },
+  {
+    "value": "40k",
+    "synonyms": [
+      "40k"
+    ]
+  },
+  {
+    "value": "Doctors",
+    "synonyms": [
+      "Doctors"
+    ]
+  },
+  {
+    "value": "Emotion",
+    "synonyms": [
+      "Emotion"
+    ]
+  },
+  {
+    "value": "Rwanda",
+    "synonyms": [
+      "Rwanda"
+    ]
+  },
+  {
+    "value": "Naval Historical Fiction",
+    "synonyms": [
+      "Naval Historical Fiction"
+    ]
+  },
+  {
+    "value": "Ukraine",
+    "synonyms": [
+      "Ukraine"
+    ]
+  },
+  {
+    "value": "Taoism",
+    "synonyms": [
+      "Taoism"
+    ]
+  },
+  {
+    "value": "Climate Change",
+    "synonyms": [
+      "Climate Change"
+    ]
+  },
+  {
+    "value": "Chess",
+    "synonyms": [
+      "Chess"
+    ]
+  },
+  {
+    "value": "Role Playing Games",
+    "synonyms": [
+      "Role Playing Games"
+    ]
+  },
+  {
+    "value": "Guides",
+    "synonyms": [
+      "Guides"
+    ]
+  },
+  {
+    "value": "Esoterica",
+    "synonyms": [
+      "Esoterica"
+    ]
+  },
+  {
+    "value": "Bisexual",
+    "synonyms": [
+      "Bisexual"
+    ]
+  },
+  {
+    "value": "Dragonlance",
+    "synonyms": [
+      "Dragonlance"
+    ]
+  },
+  {
+    "value": "Microhistory",
+    "synonyms": [
+      "Microhistory"
+    ]
+  },
+  {
+    "value": "13th Century",
+    "synonyms": [
+      "13th Century"
+    ]
+  },
+  {
+    "value": "Mountaineering",
+    "synonyms": [
+      "Mountaineering"
+    ]
+  },
+  {
+    "value": "Paranormal Urban Fantasy",
+    "synonyms": [
+      "Paranormal Urban Fantasy"
+    ]
+  },
+  {
+    "value": "Banks",
+    "synonyms": [
+      "Banks"
+    ]
+  },
+  {
+    "value": "Futurism",
+    "synonyms": [
+      "Futurism"
+    ]
+  },
+  {
+    "value": "Manga Romance",
+    "synonyms": [
+      "Manga Romance"
+    ]
+  },
+  {
+    "value": "Shounen Ai",
+    "synonyms": [
+      "Shounen Ai"
+    ]
+  },
+  {
+    "value": "Algeria",
+    "synonyms": [
+      "Algeria"
+    ]
+  },
+  {
+    "value": "Anarchism",
+    "synonyms": [
+      "Anarchism"
+    ]
+  },
+  {
+    "value": "Anthropomorphic",
+    "synonyms": [
+      "Anthropomorphic"
+    ]
+  },
+  {
+    "value": "Buffy The Vampire Slayer",
+    "synonyms": [
+      "Buffy The Vampire Slayer"
+    ]
+  },
+  {
+    "value": "Utopia",
+    "synonyms": [
+      "Utopia"
+    ]
+  },
+  {
+    "value": "Astrology",
+    "synonyms": [
+      "Astrology"
+    ]
+  },
+  {
+    "value": "Journal",
+    "synonyms": [
+      "Journal"
+    ]
+  },
+  {
+    "value": "Trivia",
+    "synonyms": [
+      "Trivia"
+    ]
+  },
+  {
+    "value": "Horse Racing",
+    "synonyms": [
+      "Horse Racing"
+    ]
+  },
+  {
+    "value": "Plantagenet",
+    "synonyms": [
+      "Plantagenet"
+    ]
+  },
+  {
+    "value": "Logic",
+    "synonyms": [
+      "Logic"
+    ]
+  },
+  {
+    "value": "Asexual",
+    "synonyms": [
+      "Asexual"
+    ]
+  },
+  {
+    "value": "Counter Culture",
+    "synonyms": [
+      "Counter Culture"
+    ]
+  },
+  {
+    "value": "Spider Man",
+    "synonyms": [
+      "Spider Man"
+    ]
+  },
+  {
+    "value": "Food Writing",
+    "synonyms": [
+      "Food Writing"
+    ]
+  },
+  {
+    "value": "Agriculture",
+    "synonyms": [
+      "Agriculture"
+    ]
+  },
+  {
+    "value": "Internet",
+    "synonyms": [
+      "Internet"
+    ]
+  },
+  {
+    "value": "Classical Studies",
+    "synonyms": [
+      "Classical Studies"
+    ]
+  },
+  {
+    "value": "Comics Bd",
+    "synonyms": [
+      "Comics Bd"
+    ]
+  },
+  {
+    "value": "Rabbits",
+    "synonyms": [
+      "Rabbits"
+    ]
+  },
+  {
+    "value": "Bizarro Fiction",
+    "synonyms": [
+      "Bizarro Fiction"
+    ]
+  },
+  {
+    "value": "Polyamory",
+    "synonyms": [
+      "Polyamory"
+    ]
+  },
+  {
+    "value": "Palaeontology",
+    "synonyms": [
+      "Palaeontology"
+    ]
+  },
+  {
+    "value": "Hackers",
+    "synonyms": [
+      "Hackers"
+    ]
+  },
+  {
+    "value": "Cycling",
+    "synonyms": [
+      "Cycling"
+    ]
+  },
+  {
+    "value": "Number",
+    "synonyms": [
+      "Number"
+    ]
+  },
+  {
+    "value": "Vegetarian",
+    "synonyms": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "value": "Green",
+    "synonyms": [
+      "Green"
+    ]
+  },
+  {
+    "value": "Botswana",
+    "synonyms": [
+      "Botswana"
+    ]
+  },
+  {
+    "value": "Near Future",
+    "synonyms": [
+      "Near Future"
+    ]
+  },
+  {
+    "value": "Spanish Civil War",
+    "synonyms": [
+      "Spanish Civil War"
+    ]
+  },
+  {
+    "value": "Transport",
+    "synonyms": [
+      "Transport"
+    ]
+  },
+  {
+    "value": "M M M",
+    "synonyms": [
+      "M M M"
+    ]
+  },
+  {
+    "value": "Dictionaries",
+    "synonyms": [
+      "Dictionaries"
+    ]
+  },
+  {
+    "value": "Plants",
+    "synonyms": [
+      "Plants"
+    ]
+  },
+  {
+    "value": "Climbing",
+    "synonyms": [
+      "Climbing"
+    ]
+  },
+  {
+    "value": "Virtual Reality",
+    "synonyms": [
+      "Virtual Reality"
+    ]
+  },
+  {
+    "value": "Zimbabwe",
+    "synonyms": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "value": "Albanian Literature",
+    "synonyms": [
+      "Albanian Literature"
+    ]
+  },
+  {
+    "value": "African American Romance",
+    "synonyms": [
+      "African American Romance"
+    ]
+  },
+  {
+    "value": "Ghana",
+    "synonyms": [
+      "Ghana"
+    ]
+  },
+  {
+    "value": "Health Care",
+    "synonyms": [
+      "Health Care"
+    ]
+  },
+  {
+    "value": "Wilderness",
+    "synonyms": [
+      "Wilderness"
+    ]
+  },
+  {
+    "value": "Comedian",
+    "synonyms": [
+      "Comedian"
+    ]
+  },
+  {
+    "value": "Yuri",
+    "synonyms": [
+      "Yuri"
+    ]
+  },
+  {
+    "value": "Dying Earth",
+    "synonyms": [
+      "Dying Earth"
+    ]
+  },
+  {
+    "value": "Prostitution",
+    "synonyms": [
+      "Prostitution"
+    ]
+  },
+  {
+    "value": "Manhwa",
+    "synonyms": [
+      "Manhwa"
+    ]
+  },
+  {
+    "value": "Love Inspired",
+    "synonyms": [
+      "Love Inspired"
+    ]
+  },
+  {
+    "value": "Polygamy",
+    "synonyms": [
+      "Polygamy"
+    ]
+  },
+  {
+    "value": "Post Colonial",
+    "synonyms": [
+      "Post Colonial"
+    ]
+  },
+  {
+    "value": "Fandom",
+    "synonyms": [
+      "Fandom"
+    ]
+  },
+  {
+    "value": "Genderqueer",
+    "synonyms": [
+      "Genderqueer"
+    ]
+  },
+  {
+    "value": "Disease",
+    "synonyms": [
+      "Disease"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Fables",
+    "synonyms": [
+      "Fables"
+    ]
+  },
+  {
+    "value": "Geology",
+    "synonyms": [
+      "Geology"
+    ]
+  },
+  {
+    "value": "Jazz",
+    "synonyms": [
+      "Jazz"
+    ]
+  },
+  {
+    "value": "Romanovs",
+    "synonyms": [
+      "Romanovs"
+    ]
+  },
+  {
+    "value": "Journaling",
+    "synonyms": [
+      "Journaling"
+    ]
+  },
+  {
+    "value": "Knitting",
+    "synonyms": [
+      "Knitting"
+    ]
+  },
+  {
+    "value": "Sudan",
+    "synonyms": [
+      "Sudan"
+    ]
+  },
+  {
+    "value": "Coding",
+    "synonyms": [
+      "Coding"
+    ]
+  },
+  {
+    "value": "Harlequin Romance",
+    "synonyms": [
+      "Harlequin Romance"
+    ]
+  },
+  {
+    "value": "Conservation",
+    "synonyms": [
+      "Conservation"
+    ]
+  },
+  {
+    "value": "Soldiers",
+    "synonyms": [
+      "Soldiers"
+    ]
+  },
+  {
+    "value": "Musicals",
+    "synonyms": [
+      "Musicals"
+    ]
+  },
+  {
+    "value": "Alchemy",
+    "synonyms": [
+      "Alchemy"
+    ]
+  },
+  {
+    "value": "Edwardian",
+    "synonyms": [
+      "Edwardian"
+    ]
+  },
+  {
+    "value": "Wizards",
+    "synonyms": [
+      "Wizards"
+    ]
+  },
+  {
+    "value": "Counting",
+    "synonyms": [
+      "Counting"
+    ]
+  },
+  {
+    "value": "M M Historical Romance",
+    "synonyms": [
+      "M M Historical Romance"
+    ]
+  },
+  {
+    "value": "Urban Planning",
+    "synonyms": [
+      "Urban Planning"
+    ]
+  },
+  {
+    "value": "Urbanism",
+    "synonyms": [
+      "Urbanism"
+    ]
+  },
+  {
+    "value": "Sex Work",
+    "synonyms": [
+      "Sex Work"
+    ]
+  },
+  {
+    "value": "Harem",
+    "synonyms": [
+      "Harem"
+    ]
+  },
+  {
+    "value": "Gender and Sexuality",
+    "synonyms": [
+      "Gender and Sexuality"
+    ]
+  },
+  {
+    "value": "Reportage",
+    "synonyms": [
+      "Reportage"
+    ]
+  },
+  {
+    "value": "Game Design",
+    "synonyms": [
+      "Game Design"
+    ]
+  },
+  {
+    "value": "Humanities",
+    "synonyms": [
+      "Humanities"
+    ]
+  },
+  {
+    "value": "Alternate Universe",
+    "synonyms": [
+      "Alternate Universe"
+    ]
+  },
+  {
+    "value": "Urban Studies",
+    "synonyms": [
+      "Urban Studies"
+    ]
+  },
+  {
+    "value": "Nursing",
+    "synonyms": [
+      "Nursing"
+    ]
+  },
+  {
+    "value": "Quilting",
+    "synonyms": [
+      "Quilting"
+    ]
+  },
+  {
+    "value": "Class",
+    "synonyms": [
+      "Class"
+    ]
+  },
+  {
+    "value": "Geek",
+    "synonyms": [
+      "Geek"
+    ]
+  },
+  {
+    "value": "Canon",
+    "synonyms": [
+      "Canon"
+    ]
+  },
+  {
+    "value": "Native American History",
+    "synonyms": [
+      "Native American History"
+    ]
+  },
+  {
+    "value": "Singularity",
+    "synonyms": [
+      "Singularity"
+    ]
+  },
+  {
+    "value": "Adolescence",
+    "synonyms": [
+      "Adolescence"
+    ]
+  },
+  {
+    "value": "Warcraft",
+    "synonyms": [
+      "Warcraft"
+    ]
+  },
+  {
+    "value": "World Of Warcraft",
+    "synonyms": [
+      "World Of Warcraft"
+    ]
+  },
+  {
+    "value": "Ethiopia",
+    "synonyms": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "value": "Alternative Medicine",
+    "synonyms": [
+      "Alternative Medicine"
+    ]
+  },
+  {
+    "value": "Labor",
+    "synonyms": [
+      "Labor"
+    ]
+  },
+  {
+    "value": "Nerd",
+    "synonyms": [
+      "Nerd"
+    ]
+  },
+  {
+    "value": "Sword and Planet",
+    "synonyms": [
+      "Sword and Planet"
+    ]
+  },
+  {
+    "value": "Ukrainian Literature",
+    "synonyms": [
+      "Ukrainian Literature"
+    ]
+  },
+  {
+    "value": "Walking",
+    "synonyms": [
+      "Walking"
+    ]
+  },
+  {
+    "value": "Japanese History",
+    "synonyms": [
+      "Japanese History"
+    ]
+  },
+  {
+    "value": "Mine",
+    "synonyms": [
+      "Mine"
+    ]
+  },
+  {
+    "value": "Visual Art",
+    "synonyms": [
+      "Visual Art"
+    ]
+  },
+  {
+    "value": "Social Media",
+    "synonyms": [
+      "Social Media"
+    ]
+  },
+  {
+    "value": "Nursery Rhymes",
+    "synonyms": [
+      "Nursery Rhymes"
+    ]
+  },
+  {
+    "value": "International Development",
+    "synonyms": [
+      "International Development"
+    ]
+  },
+  {
+    "value": "History and Politics",
+    "synonyms": [
+      "History and Politics"
+    ]
+  },
+  {
+    "value": "Planetary Romance",
+    "synonyms": [
+      "Planetary Romance"
+    ]
+  },
+  {
+    "value": "Ethnography",
+    "synonyms": [
+      "Ethnography"
+    ]
+  },
+  {
+    "value": "Fractured Fairy Tales",
+    "synonyms": [
+      "Fractured Fairy Tales"
+    ]
+  },
+  {
+    "value": "Cuisine",
+    "synonyms": [
+      "Cuisine"
+    ]
+  },
+  {
+    "value": "Weird West",
+    "synonyms": [
+      "Weird West"
+    ]
+  },
+  {
+    "value": "Cryptozoology",
+    "synonyms": [
+      "Cryptozoology"
+    ]
+  },
+  {
+    "value": "Star Trek The Next Generation",
+    "synonyms": [
+      "Star Trek The Next Generation"
+    ]
+  },
+  {
+    "value": "Esp",
+    "synonyms": [
+      "Esp"
+    ]
+  },
+  {
+    "value": "Golden Age Mystery",
+    "synonyms": [
+      "Golden Age Mystery"
+    ]
+  },
+  {
+    "value": "Queer Studies",
+    "synonyms": [
+      "Queer Studies"
+    ]
+  },
+  {
+    "value": "Goddess",
+    "synonyms": [
+      "Goddess"
+    ]
+  },
+  {
+    "value": "World Of Darkness",
+    "synonyms": [
+      "World Of Darkness"
+    ]
+  },
+  {
+    "value": "Libya",
+    "synonyms": [
+      "Libya"
+    ]
+  },
+  {
+    "value": "Baha I",
+    "synonyms": [
+      "Baha I"
+    ]
+  },
+  {
+    "value": "Wine",
+    "synonyms": [
+      "Wine"
+    ]
+  },
+  {
+    "value": "Epic Poetry",
+    "synonyms": [
+      "Epic Poetry"
+    ]
+  },
+  {
+    "value": "Islamism",
+    "synonyms": [
+      "Islamism"
+    ]
+  },
+  {
+    "value": "Harlequin Heartwarming",
+    "synonyms": [
+      "Harlequin Heartwarming"
+    ]
+  },
+  {
+    "value": "Plus Size",
+    "synonyms": [
+      "Plus Size"
+    ]
+  },
+  {
+    "value": "Aspergers",
+    "synonyms": [
+      "Aspergers"
+    ]
+  },
+  {
+    "value": "Tasmania",
+    "synonyms": [
+      "Tasmania"
+    ]
+  },
+  {
+    "value": "Tarot",
+    "synonyms": [
+      "Tarot"
+    ]
+  },
+  {
+    "value": "Russian Revolution",
+    "synonyms": [
+      "Russian Revolution"
+    ]
+  },
+  {
+    "value": "Erotic Horror",
+    "synonyms": [
+      "Erotic Horror"
+    ]
+  },
+  {
+    "value": "Hip Hop",
+    "synonyms": [
+      "Hip Hop"
+    ]
+  },
+  {
+    "value": "Harlequin Desire",
+    "synonyms": [
+      "Harlequin Desire"
+    ]
+  },
+  {
+    "value": "Trains",
+    "synonyms": [
+      "Trains"
+    ]
+  },
+  {
+    "value": "Thelema",
+    "synonyms": [
+      "Thelema"
+    ]
+  },
+  {
+    "value": "Anglo Saxon",
+    "synonyms": [
+      "Anglo Saxon"
+    ]
+  },
+  {
+    "value": "Star Trek Deep Space Nine",
+    "synonyms": [
+      "Star Trek Deep Space Nine"
+    ]
+  },
+  {
+    "value": "Semiotics",
+    "synonyms": [
+      "Semiotics"
+    ]
+  },
+  {
+    "value": "Puzzles",
+    "synonyms": [
+      "Puzzles"
+    ]
+  },
+  {
+    "value": "Favorites",
+    "synonyms": [
+      "Favorites"
+    ]
+  },
+  {
+    "value": "Latin American History",
+    "synonyms": [
+      "Latin American History"
+    ]
+  },
+  {
+    "value": "Oral History",
+    "synonyms": [
+      "Oral History"
+    ]
+  },
+  {
+    "value": "Soviet Union",
+    "synonyms": [
+      "Soviet Union"
+    ]
+  },
+  {
+    "value": "Love Inspired Historical",
+    "synonyms": [
+      "Love Inspired Historical"
+    ]
+  },
+  {
+    "value": "Algorithms",
+    "synonyms": [
+      "Algorithms"
+    ]
+  },
+  {
+    "value": "Cars",
+    "synonyms": [
+      "Cars"
+    ]
+  },
+  {
+    "value": "Horticulture",
+    "synonyms": [
+      "Horticulture"
+    ]
+  },
+  {
+    "value": "Tanzania",
+    "synonyms": [
+      "Tanzania"
+    ]
+  },
+  {
+    "value": "Growth Mindset",
+    "synonyms": [
+      "Growth Mindset"
+    ]
+  },
+  {
+    "value": "Multicultural Literature",
+    "synonyms": [
+      "Multicultural Literature"
+    ]
+  },
+  {
+    "value": "Banking",
+    "synonyms": [
+      "Banking"
+    ]
+  },
+  {
+    "value": "Divination",
+    "synonyms": [
+      "Divination"
+    ]
+  },
+  {
+    "value": "Angola",
+    "synonyms": [
+      "Angola"
+    ]
+  },
+  {
+    "value": "Pre K",
+    "synonyms": [
+      "Pre K"
+    ]
+  },
+  {
+    "value": "Cross Dressing",
+    "synonyms": [
+      "Cross Dressing"
+    ]
+  },
+  {
+    "value": "Museums",
+    "synonyms": [
+      "Museums"
+    ]
+  },
+  {
+    "value": "Apple",
+    "synonyms": [
+      "Apple"
+    ]
+  },
+  {
+    "value": "Nazi Party",
+    "synonyms": [
+      "Nazi Party"
+    ]
+  },
+  {
+    "value": "Soviet History",
+    "synonyms": [
+      "Soviet History"
+    ]
+  },
+  {
+    "value": "Evangelism",
+    "synonyms": [
+      "Evangelism"
+    ]
+  },
+  {
+    "value": "Victor Frankenstein",
+    "synonyms": [
+      "Victor Frankenstein"
+    ]
+  },
+  {
+    "value": "Loveswept",
+    "synonyms": [
+      "Loveswept"
+    ]
+  },
+  {
+    "value": "Civil War History",
+    "synonyms": [
+      "Civil War History"
+    ]
+  },
+  {
+    "value": "Maps",
+    "synonyms": [
+      "Maps"
+    ]
+  },
+  {
+    "value": "Stuart",
+    "synonyms": [
+      "Stuart"
+    ]
+  },
+  {
+    "value": "Ornithology",
+    "synonyms": [
+      "Ornithology"
+    ]
+  },
+  {
+    "value": "Spiritualism",
+    "synonyms": [
+      "Spiritualism"
+    ]
+  },
+  {
+    "value": "Deception",
+    "synonyms": [
+      "Deception"
+    ]
+  },
+  {
+    "value": "Civil War Eastern Theater",
+    "synonyms": [
+      "Civil War Eastern Theater"
+    ]
+  },
+  {
+    "value": "11th Century",
+    "synonyms": [
+      "11th Century"
+    ]
+  },
+  {
+    "value": "Cartography",
+    "synonyms": [
+      "Cartography"
+    ]
+  },
+  {
+    "value": "Elizabethan Period",
+    "synonyms": [
+      "Elizabethan Period"
+    ]
+  },
+  {
+    "value": "American Classics",
+    "synonyms": [
+      "American Classics"
+    ]
+  },
+  {
+    "value": "Butch Femme",
+    "synonyms": [
+      "Butch Femme"
+    ]
+  },
+  {
+    "value": "Jokes",
+    "synonyms": [
+      "Jokes"
+    ]
+  },
+  {
+    "value": "Climate Change Fiction",
+    "synonyms": [
+      "Climate Change Fiction"
+    ]
+  },
+  {
+    "value": "Mozambique",
+    "synonyms": [
+      "Mozambique"
+    ]
+  },
+  {
+    "value": "M M Paranormal",
+    "synonyms": [
+      "M M Paranormal"
+    ]
+  },
+  {
+    "value": "Aeroplanes",
+    "synonyms": [
+      "Aeroplanes"
+    ]
+  },
+  {
+    "value": "Librarianship",
+    "synonyms": [
+      "Librarianship"
+    ]
+  },
+  {
+    "value": "Racing",
+    "synonyms": [
+      "Racing"
+    ]
+  },
+  {
+    "value": "Gamebooks",
+    "synonyms": [
+      "Gamebooks"
+    ]
+  },
+  {
+    "value": "Mira",
+    "synonyms": [
+      "Mira"
+    ]
+  },
+  {
+    "value": "M M Sports Romance",
+    "synonyms": [
+      "M M Sports Romance"
+    ]
+  },
+  {
+    "value": "Liberia",
+    "synonyms": [
+      "Liberia"
+    ]
+  },
+  {
+    "value": "Choose Your Own Adventure",
+    "synonyms": [
+      "Choose Your Own Adventure"
+    ]
+  },
+  {
+    "value": "Goth",
+    "synonyms": [
+      "Goth"
+    ]
+  },
+  {
+    "value": "Gothic Horror",
+    "synonyms": [
+      "Gothic Horror"
+    ]
+  },
+  {
+    "value": "Muslimah",
+    "synonyms": [
+      "Muslimah"
+    ]
+  },
+  {
+    "value": "Senegal",
+    "synonyms": [
+      "Senegal"
+    ]
+  },
+  {
+    "value": "Wonder Woman",
+    "synonyms": [
+      "Wonder Woman"
+    ]
+  },
+  {
+    "value": "Swashbuckling",
+    "synonyms": [
+      "Swashbuckling"
+    ]
+  },
+  {
+    "value": "Whodunit",
+    "synonyms": [
+      "Whodunit"
+    ]
+  },
+  {
+    "value": "Republic Of The Congo",
+    "synonyms": [
+      "Republic Of The Congo"
+    ]
+  },
+  {
+    "value": "Herbs",
+    "synonyms": [
+      "Herbs"
+    ]
+  },
+  {
+    "value": "Theosophy",
+    "synonyms": [
+      "Theosophy"
+    ]
+  },
+  {
+    "value": "Somalia",
+    "synonyms": [
+      "Somalia"
+    ]
+  },
+  {
+    "value": "Silhouette",
+    "synonyms": [
+      "Silhouette"
+    ]
+  },
+  {
+    "value": "Harlequin Blaze",
+    "synonyms": [
+      "Harlequin Blaze"
+    ]
+  },
+  {
+    "value": "Harlequin Historical",
+    "synonyms": [
+      "Harlequin Historical"
+    ]
+  },
+  {
+    "value": "Fire Services",
+    "synonyms": [
+      "Fire Services"
+    ]
+  },
+  {
+    "value": "Homeschool",
+    "synonyms": [
+      "Homeschool"
+    ]
+  },
+  {
+    "value": "Ivory Coast",
+    "synonyms": [
+      "Ivory Coast"
+    ]
+  },
+  {
+    "value": "Low Fantasy",
+    "synonyms": [
+      "Low Fantasy"
+    ]
+  },
+  {
+    "value": "Beer",
+    "synonyms": [
+      "Beer"
+    ]
+  },
+  {
+    "value": "Harlequin Nocturne",
+    "synonyms": [
+      "Harlequin Nocturne"
+    ]
+  },
+  {
+    "value": "Satanism",
+    "synonyms": [
+      "Satanism"
+    ]
+  },
+  {
+    "value": "Academics",
+    "synonyms": [
+      "Academics"
+    ]
+  },
+  {
+    "value": "Bolivia",
+    "synonyms": [
+      "Bolivia"
+    ]
+  },
+  {
+    "value": "Tea",
+    "synonyms": [
+      "Tea"
+    ]
+  },
+  {
+    "value": "Geometry",
+    "synonyms": [
+      "Geometry"
+    ]
+  },
+  {
+    "value": "Google",
+    "synonyms": [
+      "Google"
+    ]
+  },
+  {
+    "value": "Victorian Romance",
+    "synonyms": [
+      "Victorian Romance"
+    ]
+  },
+  {
+    "value": "Holland",
+    "synonyms": [
+      "Holland"
+    ]
+  },
+  {
+    "value": "Moroccan",
+    "synonyms": [
+      "Moroccan"
+    ]
+  },
+  {
+    "value": "Alcohol",
+    "synonyms": [
+      "Alcohol"
+    ]
+  },
+  {
+    "value": "Northern Africa",
+    "synonyms": [
+      "Northern Africa"
+    ]
+  },
+  {
+    "value": "Strippers",
+    "synonyms": [
+      "Strippers"
+    ]
+  },
+  {
+    "value": "Planets",
+    "synonyms": [
+      "Planets"
+    ]
+  },
+  {
+    "value": "Intersex",
+    "synonyms": [
+      "Intersex"
+    ]
+  },
+  {
+    "value": "Lenin",
+    "synonyms": [
+      "Lenin"
+    ]
+  },
+  {
+    "value": "Roman Britain",
+    "synonyms": [
+      "Roman Britain"
+    ]
+  },
+  {
+    "value": "Slash Fiction",
+    "synonyms": [
+      "Slash Fiction"
+    ]
+  },
+  {
+    "value": "Feminist Theory",
+    "synonyms": [
+      "Feminist Theory"
+    ]
+  },
+  {
+    "value": "Food History",
+    "synonyms": [
+      "Food History"
+    ]
+  },
+  {
+    "value": "Disability Studies",
+    "synonyms": [
+      "Disability Studies"
+    ]
+  },
+  {
+    "value": "Sewing",
+    "synonyms": [
+      "Sewing"
+    ]
+  },
+  {
+    "value": "Mills and Boon",
+    "synonyms": [
+      "Mills and Boon"
+    ]
+  },
+  {
+    "value": "Lie",
+    "synonyms": [
+      "Lie"
+    ]
+  },
+  {
+    "value": "Drinking",
+    "synonyms": [
+      "Drinking"
+    ]
+  },
+  {
+    "value": "Global Warming",
+    "synonyms": [
+      "Global Warming"
+    ]
+  },
+  {
+    "value": "Mary Shelley",
+    "synonyms": [
+      "Mary Shelley"
+    ]
+  },
+  {
+    "value": "Alexandria",
+    "synonyms": [
+      "Alexandria"
+    ]
+  },
+  {
+    "value": "Burundi",
+    "synonyms": [
+      "Burundi"
+    ]
+  },
+  {
+    "value": "Battle Of Gettysburg",
+    "synonyms": [
+      "Battle Of Gettysburg"
+    ]
+  },
+  {
+    "value": "Zambia",
+    "synonyms": [
+      "Zambia"
+    ]
+  },
+  {
+    "value": "Uganda",
+    "synonyms": [
+      "Uganda"
+    ]
+  },
+  {
+    "value": "Mali",
+    "synonyms": [
+      "Mali"
+    ]
+  },
+  {
+    "value": "Rus",
+    "synonyms": [
+      "Rus"
+    ]
+  },
+  {
+    "value": "Omegaverse",
+    "synonyms": [
+      "Omegaverse"
+    ]
+  },
+  {
+    "value": "Ecclesiology",
+    "synonyms": [
+      "Ecclesiology"
+    ]
+  },
+  {
+    "value": "Vaccines",
+    "synonyms": [
+      "Vaccines"
+    ]
+  },
+  {
+    "value": "Pilots",
+    "synonyms": [
+      "Pilots"
+    ]
+  },
+  {
+    "value": "Western Africa",
+    "synonyms": [
+      "Western Africa"
+    ]
+  },
+  {
+    "value": "Led Zeppelin",
+    "synonyms": [
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "value": "Numerology",
+    "synonyms": [
+      "Numerology"
+    ]
+  },
+  {
+    "value": "Battle Of Britain",
+    "synonyms": [
+      "Battle Of Britain"
+    ]
+  },
+  {
+    "value": "Railways",
+    "synonyms": [
+      "Railways"
+    ]
+  },
+  {
+    "value": "Library Science",
+    "synonyms": [
+      "Library Science"
+    ]
+  },
+  {
+    "value": "Christian Contemporary Fiction",
+    "synonyms": [
+      "Christian Contemporary Fiction"
+    ]
+  },
+  {
+    "value": "Belief",
+    "synonyms": [
+      "Belief"
+    ]
+  },
+  {
+    "value": "Taxation",
+    "synonyms": [
+      "Taxation"
+    ]
+  },
+  {
+    "value": "Students",
+    "synonyms": [
+      "Students"
+    ]
+  },
+  {
+    "value": "Pseudoscience",
+    "synonyms": [
+      "Pseudoscience"
+    ]
+  },
+  {
+    "value": "Words",
+    "synonyms": [
+      "Words"
+    ]
+  },
+  {
+    "value": "Naturopathy",
+    "synonyms": [
+      "Naturopathy"
+    ]
+  },
+  {
+    "value": "Gastronomy",
+    "synonyms": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "value": "M M Young Adult",
+    "synonyms": [
+      "M M Young Adult"
+    ]
+  },
+  {
+    "value": "Egyptology",
+    "synonyms": [
+      "Egyptology"
+    ]
+  },
+  {
+    "value": "Eritrea",
+    "synonyms": [
+      "Eritrea"
+    ]
+  },
+  {
+    "value": "Creation Science",
+    "synonyms": [
+      "Creation Science"
+    ]
+  },
+  {
+    "value": "Fat Studies",
+    "synonyms": [
+      "Fat Studies"
+    ]
+  },
+  {
+    "value": "Pornography",
+    "synonyms": [
+      "Pornography"
+    ]
+  },
+  {
+    "value": "Bicycles",
+    "synonyms": [
+      "Bicycles"
+    ]
+  },
+  {
+    "value": "Helicopters",
+    "synonyms": [
+      "Helicopters"
+    ]
+  },
+  {
+    "value": "Amateur Sleuth",
+    "synonyms": [
+      "Amateur Sleuth"
+    ]
+  },
+  {
+    "value": "Fat Acceptance",
+    "synonyms": [
+      "Fat Acceptance"
+    ]
+  },
+  {
+    "value": "Fat",
+    "synonyms": [
+      "Fat"
+    ]
+  },
+  {
+    "value": "Booze",
+    "synonyms": [
+      "Booze"
+    ]
+  },
+  {
+    "value": "Spanish History",
+    "synonyms": [
+      "Spanish History"
+    ]
+  },
+  {
+    "value": "Futuristic Romance",
+    "synonyms": [
+      "Futuristic Romance"
+    ]
+  },
+  {
+    "value": "Read For College",
+    "synonyms": [
+      "Read For College"
+    ]
+  },
+  {
+    "value": "Sierra Leone",
+    "synonyms": [
+      "Sierra Leone"
+    ]
+  },
+  {
+    "value": "Frugal",
+    "synonyms": [
+      "Frugal"
+    ]
+  },
+  {
+    "value": "Hqn",
+    "synonyms": [
+      "Hqn"
+    ]
+  },
+  {
+    "value": "Graphic Novels Comics Manga",
+    "synonyms": [
+      "Graphic Novels Comics Manga"
+    ]
+  },
+  {
+    "value": "Mail Order Brides",
+    "synonyms": [
+      "Mail Order Brides"
+    ]
+  },
+  {
+    "value": "Earth Sciences",
+    "synonyms": [
+      "Earth Sciences"
+    ]
+  },
+  {
+    "value": "Viking Romance",
+    "synonyms": [
+      "Viking Romance"
+    ]
+  },
+  {
+    "value": "Field Guides",
+    "synonyms": [
+      "Field Guides"
+    ]
+  },
+  {
+    "value": "Stand Up",
+    "synonyms": [
+      "Stand Up"
+    ]
+  },
+  {
+    "value": "Georgian Romance",
+    "synonyms": [
+      "Georgian Romance"
+    ]
+  },
+  {
+    "value": "Traditional Chinese Medicine",
+    "synonyms": [
+      "Traditional Chinese Medicine"
+    ]
+  },
+  {
+    "value": "Recreation",
+    "synonyms": [
+      "Recreation"
+    ]
+  },
+  {
+    "value": "Money Management",
+    "synonyms": [
+      "Money Management"
+    ]
+  },
+  {
+    "value": "M M Mystery",
+    "synonyms": [
+      "M M Mystery"
+    ]
+  },
+  {
+    "value": "Far Right",
+    "synonyms": [
+      "Far Right"
+    ]
+  },
+  {
+    "value": "Colouring Books",
+    "synonyms": [
+      "Colouring Books"
+    ]
+  },
+  {
+    "value": "Mmorpg",
+    "synonyms": [
+      "Mmorpg"
+    ]
+  },
+  {
+    "value": "10th Century",
+    "synonyms": [
+      "10th Century"
+    ]
+  },
+  {
+    "value": "London Underground",
+    "synonyms": [
+      "London Underground"
+    ]
+  },
+  {
+    "value": "Star Trek Original Series",
+    "synonyms": [
+      "Star Trek Original Series"
+    ]
+  },
+  {
+    "value": "Human Resources",
+    "synonyms": [
+      "Human Resources"
+    ]
+  },
+  {
+    "value": "Peak Oil",
+    "synonyms": [
+      "Peak Oil"
+    ]
+  },
+  {
+    "value": "Eastern Africa",
+    "synonyms": [
+      "Eastern Africa"
+    ]
+  },
+  {
+    "value": "Atlases",
+    "synonyms": [
+      "Atlases"
+    ]
+  },
+  {
+    "value": "Erotic Paranormal Romance",
+    "synonyms": [
+      "Erotic Paranormal Romance"
+    ]
+  },
+  {
+    "value": "Airships",
+    "synonyms": [
+      "Airships"
+    ]
+  },
+  {
+    "value": "Go",
+    "synonyms": [
+      "Go"
+    ]
+  },
+  {
+    "value": "Foster Children",
+    "synonyms": [
+      "Foster Children"
+    ]
+  },
+  {
+    "value": "M M Science Fiction",
+    "synonyms": [
+      "M M Science Fiction"
+    ]
+  },
+  {
+    "value": "Warriors",
+    "synonyms": [
+      "Warriors"
+    ]
+  },
+  {
+    "value": "Classical Music",
+    "synonyms": [
+      "Classical Music"
+    ]
+  },
+  {
+    "value": "Social Change",
+    "synonyms": [
+      "Social Change"
+    ]
+  },
+  {
+    "value": "The Americas",
+    "synonyms": [
+      "The Americas"
+    ]
+  },
+  {
+    "value": "Information Science",
+    "synonyms": [
+      "Information Science"
+    ]
+  },
+  {
+    "value": "Traditional Regency",
+    "synonyms": [
+      "Traditional Regency"
+    ]
+  },
+  {
+    "value": "Food Preservation",
+    "synonyms": [
+      "Food Preservation"
+    ]
+  },
+  {
+    "value": "Black Literature",
+    "synonyms": [
+      "Black Literature"
+    ]
+  },
+  {
+    "value": "Pre Raphaelite",
+    "synonyms": [
+      "Pre Raphaelite"
+    ]
+  },
+  {
+    "value": "Star Trek Voyager",
+    "synonyms": [
+      "Star Trek Voyager"
+    ]
+  },
+  {
+    "value": "Brewing",
+    "synonyms": [
+      "Brewing"
+    ]
+  },
+  {
+    "value": "Did Not Finish",
+    "synonyms": [
+      "Did Not Finish"
+    ]
+  },
+  {
+    "value": "Algebra",
+    "synonyms": [
+      "Algebra"
+    ]
+  },
+  {
+    "value": "Royal Air Force",
+    "synonyms": [
+      "Royal Air Force"
+    ]
+  },
+  {
+    "value": "History Of Medicine",
+    "synonyms": [
+      "History Of Medicine"
+    ]
+  },
+  {
+    "value": "Motorcycling",
+    "synonyms": [
+      "Motorcycling"
+    ]
+  },
+  {
+    "value": "Aircraft",
+    "synonyms": [
+      "Aircraft"
+    ]
+  },
+  {
+    "value": "Geoffrey Chaucer",
+    "synonyms": [
+      "Geoffrey Chaucer"
+    ]
+  },
+  {
+    "value": "Jewellery",
+    "synonyms": [
+      "Jewellery"
+    ]
+  },
+  {
+    "value": "Professors",
+    "synonyms": [
+      "Professors"
+    ]
+  },
+  {
+    "value": "Cameroon",
+    "synonyms": [
+      "Cameroon"
+    ]
+  },
+  {
+    "value": "Intelligent Design",
+    "synonyms": [
+      "Intelligent Design"
+    ]
+  },
+  {
+    "value": "Gay Erotica",
+    "synonyms": [
+      "Gay Erotica"
+    ]
+  },
+  {
+    "value": "Street Art",
+    "synonyms": [
+      "Street Art"
+    ]
+  },
+  {
+    "value": "Graffiti",
+    "synonyms": [
+      "Graffiti"
+    ]
+  },
+  {
+    "value": "Muslims",
+    "synonyms": [
+      "Muslims"
+    ]
+  },
+  {
+    "value": "NSFW",
+    "synonyms": [
+      "NSFW"
+    ]
+  },
+  {
+    "value": "Social Movements",
+    "synonyms": [
+      "Social Movements"
+    ]
+  },
+  {
+    "value": "Stories",
+    "synonyms": [
+      "Stories"
+    ]
+  },
+  {
+    "value": "Kazakhstan",
+    "synonyms": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "value": "Museology",
+    "synonyms": [
+      "Museology"
+    ]
+  },
+  {
+    "value": "Cocktails",
+    "synonyms": [
+      "Cocktails"
+    ]
+  },
+  {
+    "value": "Supernatural Romance",
+    "synonyms": [
+      "Supernatural Romance"
+    ]
+  },
+  {
+    "value": "International Literature",
+    "synonyms": [
+      "International Literature"
+    ]
+  },
+  {
+    "value": "Erotic Historical Romance",
+    "synonyms": [
+      "Erotic Historical Romance"
+    ]
+  },
+  {
+    "value": "Malawi",
+    "synonyms": [
+      "Malawi"
+    ]
+  },
+  {
+    "value": "Polyamorous",
+    "synonyms": [
+      "Polyamorous"
+    ]
+  },
+  {
+    "value": "Usability",
+    "synonyms": [
+      "Usability"
+    ]
+  },
+  {
+    "value": "Website Design",
+    "synonyms": [
+      "Website Design"
+    ]
+  },
+  {
+    "value": "Yeti",
+    "synonyms": [
+      "Yeti"
+    ]
+  },
+  {
+    "value": "Togo",
+    "synonyms": [
+      "Togo"
+    ]
+  },
+  {
+    "value": "Buses",
+    "synonyms": [
+      "Buses"
+    ]
+  },
+  {
+    "value": "Emergency Services",
+    "synonyms": [
+      "Emergency Services"
+    ]
+  },
+  {
+    "value": "Love Inspired Suspense",
+    "synonyms": [
+      "Love Inspired Suspense"
+    ]
+  },
+  {
+    "value": "Punx",
+    "synonyms": [
+      "Punx"
+    ]
+  },
+  {
+    "value": "Namibia",
+    "synonyms": [
+      "Namibia"
+    ]
+  },
+  {
+    "value": "Web",
+    "synonyms": [
+      "Web"
+    ]
+  },
+  {
+    "value": "Back To School",
+    "synonyms": [
+      "Back To School"
+    ]
+  },
+  {
+    "value": "Cultural Heritage",
+    "synonyms": [
+      "Cultural Heritage"
+    ]
+  },
+  {
+    "value": "Vegetarianism",
+    "synonyms": [
+      "Vegetarianism"
+    ]
+  },
+  {
+    "value": "Benin",
+    "synonyms": [
+      "Benin"
+    ]
+  },
+  {
+    "value": "Paramedics",
+    "synonyms": [
+      "Paramedics"
+    ]
+  },
+  {
+    "value": "Anti Intellectualism",
+    "synonyms": [
+      "Anti Intellectualism"
+    ]
+  },
+  {
+    "value": "Central Africa",
+    "synonyms": [
+      "Central Africa"
+    ]
+  },
+  {
+    "value": "Harlequin Presents",
+    "synonyms": [
+      "Harlequin Presents"
+    ]
+  },
+  {
+    "value": "Fundamentalism",
+    "synonyms": [
+      "Fundamentalism"
+    ]
+  },
+  {
+    "value": "Guidebook",
+    "synonyms": [
+      "Guidebook"
+    ]
+  },
+  {
+    "value": "Woodwork",
+    "synonyms": [
+      "Woodwork"
+    ]
+  },
+  {
+    "value": "Electrical Engineering",
+    "synonyms": [
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "value": "漫画",
+    "synonyms": [
+      "漫画"
+    ]
+  },
+  {
+    "value": "Fantasy Of Manners",
+    "synonyms": [
+      "Fantasy Of Manners"
+    ]
+  },
+  {
+    "value": "Babylon 5",
+    "synonyms": [
+      "Babylon 5"
+    ]
+  },
+  {
+    "value": "English Civil War",
+    "synonyms": [
+      "English Civil War"
+    ]
+  },
+  {
+    "value": "Norman",
+    "synonyms": [
+      "Norman"
+    ]
+  },
+  {
+    "value": "Figure Skating",
+    "synonyms": [
+      "Figure Skating"
+    ]
+  },
+  {
+    "value": "Foster Parents",
+    "synonyms": [
+      "Foster Parents"
+    ]
+  },
+  {
+    "value": "Cryptids",
+    "synonyms": [
+      "Cryptids"
+    ]
+  },
+  {
+    "value": "Harlequin Teen",
+    "synonyms": [
+      "Harlequin Teen"
+    ]
+  },
+  {
+    "value": "Sao Tome and Principe",
+    "synonyms": [
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "value": "Guinea",
+    "synonyms": [
+      "Guinea"
+    ]
+  }
+]
