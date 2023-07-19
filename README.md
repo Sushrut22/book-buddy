@@ -66,6 +66,7 @@ To run BookBuddy locally, follow these steps:
 ## Video Demonstration and screenshots
 
 Watch the BookBuddy in action in our video demonstration: [BookBuddy Demo](https://www.youtube.com/watch?v=pdeWZkCaQUQ)
+- Screenshots
 ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/d57ff3c4-255d-4e25-8c61-9d4ee0167f8b)
 ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/ba8914c9-9629-429e-a523-61f75c802dd9)
 ![image](https://github.com/atharv-patil/book-buddy/assets/83455141/5e882920-dc9d-4e00-96f8-e518738a95c7)
