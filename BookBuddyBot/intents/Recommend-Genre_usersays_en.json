@@ -1,0 +1,434 @@
+[
+  {
+    "id": "904de298-4fde-472d-b701-c5ec27e28a6a",
+    "data": [
+      {
+        "text": "suggest me a ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3663227c-3da1-427f-a0dc-032605a27f40",
+    "data": [
+      {
+        "text": "suggest me a ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd87b734-041c-4121-8c2a-cc1d33e79d68",
+    "data": [
+      {
+        "text": "I\u0027m looking for a good ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel. Any suggestions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1e11151-116b-42a5-ae56-7c508e6dafb3",
+    "data": [
+      {
+        "text": "Do you have any recommendations for a ",
+        "userDefined": false
+      },
+      {
+        "text": "young adult fiction",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " book?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ca11374-5b6c-4041-bd37-bee783723a2b",
+    "data": [
+      {
+        "text": "I\u0027m in the mood for a ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": ". Any book suggestions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33161ae5-44c0-41d8-84e3-3ca1e2698218",
+    "data": [
+      {
+        "text": "What\u0027s a great ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel that you would recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "634fd135-f35a-4ed8-8ca0-90387de752a6",
+    "data": [
+      {
+        "text": "Need recommendation for a book which has ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "young adult",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "010d2d0f-485a-42ae-afa9-9fdc1de332f4",
+    "data": [
+      {
+        "text": "Do you have any recommendations for a ",
+        "userDefined": false
+      },
+      {
+        "text": "teen",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": true
+      },
+      {
+        "text": " book?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e7f3fda-7139-4e3f-a6fa-4af53b11fcab",
+    "data": [
+      {
+        "text": "I\u0027m looking for a novel to read, any suggestions for the ",
+        "userDefined": false
+      },
+      {
+        "text": "mystery",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " genre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "333701e9-6e54-49c5-aae1-ce9c49e696d1",
+    "data": [
+      {
+        "text": "Can you recommend a good book in the ",
+        "userDefined": false
+      },
+      {
+        "text": "teen",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " genre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96331861-4de3-4d14-b53c-5c32970f0b15",
+    "data": [
+      {
+        "text": "Find out best ",
+        "userDefined": false
+      },
+      {
+        "text": "love story",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ee48677-5f95-4257-94d1-634429ee7610",
+    "data": [
+      {
+        "text": "Find me the best ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b627575-3b71-4536-a08b-0455f1b1c84d",
+    "data": [
+      {
+        "text": "Quest",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "430f2ebd-00fd-4ef6-b76c-62e949d27cb6",
+    "data": [
+      {
+        "text": "Mystery",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcff01fa-4304-465c-b601-263e2606e7de",
+    "data": [
+      {
+        "text": "Thriller",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "109fd10a-3267-4fa1-87df-408b0c21610e",
+    "data": [
+      {
+        "text": "Recommend me a ",
+        "userDefined": false
+      },
+      {
+        "text": "love story",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fc3a7bd-3aee-4631-b27d-9d3b329251f1",
+    "data": [
+      {
+        "text": "help me find a ",
+        "userDefined": false
+      },
+      {
+        "text": "lovely story",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " which has ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e56ec6da-84c9-4214-ad30-3c695ef31bc6",
+    "data": [
+      {
+        "text": "Help me find a good ",
+        "userDefined": false
+      },
+      {
+        "text": "romantic",
+        "meta": "@Genre",
+        "alias": "genre",
+        "userDefined": false
+      },
+      {
+        "text": " novel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

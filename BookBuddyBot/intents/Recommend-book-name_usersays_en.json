@@ -1,0 +1,311 @@
+[
+  {
+    "id": "328ed511-ac9a-425e-8d33-d676cba1c8f9",
+    "data": [
+      {
+        "text": "I enjoyed reading \"",
+        "userDefined": false
+      },
+      {
+        "text": "The Street Lawyer",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": ".\" Can you recommend another book with a similar theme or atmosphere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27cc17de-f13e-4762-a9da-cd68f7e9389b",
+    "data": [
+      {
+        "text": "I enjoyed \"",
+        "userDefined": false
+      },
+      {
+        "text": "From the Corner of His Eye",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": "\" and \"",
+        "userDefined": false
+      },
+      {
+        "text": "Isle of Dogs",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": ".\" Can you suggest another ",
+        "userDefined": false
+      },
+      {
+        "text": "thought",
+        "userDefined": false
+      },
+      {
+        "text": "-provoking novel like these?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef388f1e-199d-4e14-95b6-e074e2082189",
+    "data": [
+      {
+        "text": "If",
+        "userDefined": false
+      },
+      {
+        "text": " I enjoyed reading \"",
+        "userDefined": false
+      },
+      {
+        "text": "Timeline",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": "\" and \"",
+        "userDefined": false
+      },
+      {
+        "text": "To Kill a Mockingbird",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": ",\" what other books would you suggest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a20fe575-f62a-4407-83c0-491715e1da2b",
+    "data": [
+      {
+        "text": "I loved reading \"",
+        "userDefined": false
+      },
+      {
+        "text": "The Testament",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": "\" and \"",
+        "userDefined": false
+      },
+      {
+        "text": "Beloved (Plume Contemporary Fiction)",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": ".\" Can you recommend a book similar to ",
+        "userDefined": false
+      },
+      {
+        "text": "these",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4fceb3c-66d4-462d-a2ef-b48f6a75f4f2",
+    "data": [
+      {
+        "text": "I liked ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "userDefined": false
+      },
+      {
+        "text": " books ",
+        "userDefined": false
+      },
+      {
+        "text": "Harry Potter and the Order of the Phoenix (Book 5) and The",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "World According to Garp",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fefdbef-a670-44a7-9329-72b9b94c2257",
+    "data": [
+      {
+        "text": "The World According to Garp",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8c821dd-14fe-421d-93df-621b2f30593c",
+    "data": [
+      {
+        "text": "The World According to Garp",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "is amazing book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b1c2b3-15ae-4fb9-a64e-be0b96d20177",
+    "data": [
+      {
+        "text": "Isle of dogs",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": " is an awesome book I really loved it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37c43252-1b48-4166-a8bc-8598dd0ca574",
+    "data": [
+      {
+        "text": "Isle of dogs",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": " is an awesome ",
+        "userDefined": false
+      },
+      {
+        "text": "book I",
+        "userDefined": false
+      },
+      {
+        "text": " really like it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef9b0542-3866-4321-9f55-aa17f6b1db3d",
+    "data": [
+      {
+        "text": "I liked ",
+        "userDefined": false
+      },
+      {
+        "text": "Isle of dogs",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": " recommend me a novel accordingly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aa97eb9-3d1c-40ab-918f-1f65a30fbeb5",
+    "data": [
+      {
+        "text": "I liked ",
+        "userDefined": false
+      },
+      {
+        "text": "Isle of dogs",
+        "meta": "@book-name",
+        "alias": "book-name",
+        "userDefined": false
+      },
+      {
+        "text": " suggest me a novel accordingly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
